@@ -1,0 +1,13 @@
+# Ignorar directorios y archivos de entornos virtuales
+.venv/
+new_env/
+
+# Archivos de Python
+*.pyc
+__pycache__/
+
+# Archivos específicos de macOS
+.DS_Store
+
+# Archivos generados por IDEs como VS Code
+.vscode/
