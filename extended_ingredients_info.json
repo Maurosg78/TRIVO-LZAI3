@@ -1,0 +1,252 @@
+{
+  "harina_de_arroz": {
+    "categoria": "harina",
+    "funcion": "sustituto_gluten",
+    "cost_kg": 1.80
+  },
+  "harina_de_arroz_integral": {
+    "categoria": "harina",
+    "funcion": "sustituto_gluten",
+    "cost_kg": 2.00
+  },
+  "harina_de_garbanzo": {
+    "categoria": "harina",
+    "funcion": "base_proteica",
+    "cost_kg": 2.50
+  },
+  "almidon_de_maiz": {
+    "categoria": "almidon",
+    "funcion": "espesante",
+    "cost_kg": 1.80
+  },
+  "almidon_de_mandioca": {
+    "categoria": "almidon",
+    "funcion": "sustituto_trigo",
+    "cost_kg": 2.10
+  },
+  "almidon_de_tapioca": {
+    "categoria": "almidon",
+    "funcion": "elasticidad_retencion_gases",
+    "cost_kg": 1.80
+  },
+  "almidon_de_papa": {
+    "categoria": "almidon",
+    "funcion": "retencion_humedad_elasticidad",
+    "cost_kg": 2.00
+  },
+  "aceite_de_maravilla": {
+    "categoria": "aceite",
+    "funcion": "alternativa_economica",
+    "cost_kg": 3.00
+  },
+  "aceite_de_oliva": {
+    "categoria": "aceite",
+    "funcion": "lubricacion_sabor",
+    "cost_kg": 4.00
+  },
+  "aceite_de_soya": {
+    "categoria": "aceite",
+    "funcion": "lubricacion_sabor",
+    "cost_kg": 2.50
+  },
+  "aceite_de_canola": {
+    "categoria": "aceite",
+    "funcion": "alternativa_neutra",
+    "cost_kg": 3.20
+  },
+  "aceite_de_cartamo": {
+    "categoria": "aceite",
+    "funcion": "alternativa_neutra",
+    "cost_kg": 3.50
+  },
+  "goma_xantana": {
+    "categoria": "goma",
+    "funcion": "estabilizante_imita_gluten",
+    "cost_kg": 15.00
+  },
+  "goma_guar": {
+    "categoria": "goma",
+    "funcion": "espesante",
+    "cost_kg": 8.00
+  },
+  "aceite_de_palmiste_hidrogenado": {
+    "categoria": "aceite_hidrogenado",
+    "funcion": "estructura_sólida",
+    "cost_kg": 3.50
+  },
+  "aceite_de_soya_hidrogenado": {
+    "categoria": "aceite_hidrogenado",
+    "funcion": "estructura_sólida",
+    "cost_kg": 3.00
+  },
+  "huevo_deshidratado": {
+    "categoria": "proteina_animal",
+    "funcion": "emulsion_estructura",
+    "cost_kg": 6.00
+  },
+  "inulina": {
+    "categoria": "fibra_prebiotica",
+    "funcion": "sustituto_azucares",
+    "cost_kg": 12.00
+  },
+  "propilenglicol": {
+    "categoria": "aditivo",
+    "funcion": "humectante",
+    "cost_kg": 2.50
+  },
+  "acido_citrico": {
+    "categoria": "aditivo",
+    "funcion": "regulador_ph",
+    "cost_kg": 1.00
+  },
+  "bicarbonato_de_sodio": {
+    "categoria": "agente_leudante",
+    "funcion": "libera_co2",
+    "cost_kg": 1.20
+  },
+  "fosfato_monocalcico": {
+    "categoria": "agente_leudante",
+    "funcion": "libera_co2",
+    "cost_kg": 2.00
+  },
+  "fosfato_de_aluminio": {
+    "categoria": "aditivo",
+    "funcion": "estabilizante_leudante",
+    "cost_kg": 2.00
+  },
+  "fosfato_de_sodio": {
+    "categoria": "aditivo",
+    "funcion": "regulador_ph",
+    "cost_kg": 2.00
+  },
+  "azucar": {
+    "categoria": "edulcorante",
+    "funcion": "sabor_energía",
+    "cost_kg": 1.50
+  },
+  "levadura_deshidratada": {
+    "categoria": "agente_fermentador",
+    "funcion": "fermentacion_aireacion",
+    "cost_kg": 2.50
+  },
+  "lecitina_de_soya": {
+    "categoria": "emulsionante",
+    "funcion": "emulsion_estabilidad",
+    "cost_kg": 4.50
+  },
+  "sorbato_de_potasio": {
+    "categoria": "conservante",
+    "funcion": "inhibe_moho_levaduras",
+    "cost_kg": 5.00
+  },
+  "propionato_de_calcio": {
+    "categoria": "conservante",
+    "funcion": "inhibe_hongos",
+    "cost_kg": 5.00
+  },
+  "sulfato_ferroso": {
+    "categoria": "fortificante",
+    "funcion": "aporte_hierro",
+    "cost_kg": 10.00
+  },
+  "mononitrato_de_tiamina": {
+    "categoria": "vitamina_b1",
+    "funcion": "enriquecimiento",
+    "cost_kg": 20.00
+  },
+  "acido_folico": {
+    "categoria": "vitamina_b9",
+    "funcion": "enriquecimiento",
+    "cost_kg": 25.00
+  },
+  "riboflavina": {
+    "categoria": "vitamina_b2",
+    "funcion": "enriquecimiento",
+    "cost_kg": 25.00
+  },
+  "niacinamida": {
+    "categoria": "vitamina_b3",
+    "funcion": "enriquecimiento",
+    "cost_kg": 25.00
+  },
+  "dioxido_de_silicio_amorfo": {
+    "categoria": "antiaglomerante",
+    "funcion": "evita_humedad",
+    "cost_kg": 3.00
+  },
+  "fibra_de_naranja": {
+    "categoria": "fibra",
+    "funcion": "retencion_humedad",
+    "cost_kg": 7.00
+  },
+  "cloruro_de_potasio": {
+    "categoria": "sal_mineral",
+    "funcion": "sustituto_de_sodio",
+    "cost_kg": 2.50
+  },
+  "polidextrosa": {
+    "categoria": "fibra_funcional",
+    "funcion": "reduce_azucar",
+    "cost_kg": 8.00
+  },
+  "dextrosa": {
+    "categoria": "edulcorante",
+    "funcion": "sabor_rapida_energia",
+    "cost_kg": 1.60
+  },
+  "fibra_de_psyllium": {
+    "categoria": "fibra_prebiotica",
+    "funcion": "sustituto_de_huevo",
+    "cost_kg": 6.00
+  },
+  "proteina_de_arveja": {
+    "categoria": "proteina_vegetal",
+    "funcion": "aporte_proteico",
+    "cost_kg": 10.00
+  },
+  "fibra_de_maiz": {
+    "categoria": "fibra",
+    "funcion": "retencion_humedad",
+    "cost_kg": 5.00
+  },
+  "almidon_modificado_de_maiz": {
+    "categoria": "almidon_modificado",
+    "funcion": "espesante_estable_calor",
+    "cost_kg": 2.50
+  },
+  "hierro_sulfato_hidratado": {
+    "categoria": "fortificante",
+    "funcion": "aporte_hierro",
+    "cost_kg": 15.00
+  },
+  "nicotinaida": {
+    "categoria": "vitamina_b3",
+    "funcion": "enriquecimiento",
+    "cost_kg": 20.00
+  },
+  "coliflor": {
+    "categoria": "vegetal",
+    "funcion": "baja_carbohidratos",
+    "cost_kg": 1.50
+  },
+  "papa": {
+    "categoria": "vegetal",
+    "funcion": "textura_cuerpo",
+    "cost_kg": 1.50
+  },
+  "espinaca": {
+    "categoria": "vegetal",
+    "funcion": "color_fibra",
+    "cost_kg": 2.00
+  },
+  "linaza_molida": {
+    "categoria": "semilla",
+    "funcion": "fibra_ligante",
+    "cost_kg": 4.00
+  },
+  "aceite_de_coco": {
+    "categoria": "aceite",
+    "funcion": "sabor_textura",
+    "cost_kg": 6.00
+  }
+}

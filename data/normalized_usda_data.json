@@ -1,0 +1,146 @@
+[
+    {
+        "ingredient_name": "flour,_rice,_brown",
+        "type": "usda",
+        "nutritional_values": {
+            "protein": 7.19,
+            "carbs": 75.5,
+            "fat": 3.85,
+            "fiber": 0,
+            "sodium": 1.0,
+            "energy": 365
+        }
+    },
+    {
+        "ingredient_name": "chickpea_flour",
+        "type": "usda",
+        "nutritional_values": {
+            "protein": 16.7,
+            "carbs": 70.0,
+            "fat": 5.0,
+            "fiber": 16.7,
+            "sodium": 0.0,
+            "energy": 400
+        }
+    },
+    {
+        "ingredient_name": "yeast",
+        "type": "usda",
+        "nutritional_values": {
+            "protein": 40.44,
+            "carbs": 41.22,
+            "fat": 7.61,
+            "fiber": 26.9,
+            "sodium": 51,
+            "energy": 325
+        }
+    },
+    {
+        "ingredient_name": "cornstarch",
+        "type": "usda",
+        "nutritional_values": {
+            "protein": 0.26,
+            "carbs": 91.3,
+            "fat": 0.05,
+            "fiber": 0.9,
+            "sodium": 9.0,
+            "energy": 381
+        }
+    },
+    {
+        "ingredient_name": "xanthan_gum",
+        "type": "usda",
+        "nutritional_values": {
+            "protein": 0.0,
+            "carbs": 125,
+            "fat": 0.0,
+            "fiber": 0,
+            "sodium": 3120.0,
+            "energy": 625
+        }
+    },
+    {
+        "ingredient_name": "water",
+        "type": "usda",
+        "nutritional_values": {
+            "protein": 0.0,
+            "carbs": 10.8,
+            "fat": 0.0,
+            "fiber": 0,
+            "sodium": 8.0,
+            "energy": 42.0
+        }
+    },
+    {
+        "ingredient_name": "potato_flour",
+        "type": "usda",
+        "nutritional_values": {
+            "protein": 6.9,
+            "carbs": 83.1,
+            "fat": 0.34,
+            "fiber": 5.9,
+            "sodium": 55.0,
+            "energy": 1490.0
+        }
+    },
+    {
+        "ingredient_name": "salt",
+        "type": "usda",
+        "nutritional_values": {
+            "protein": 0.0,
+            "carbs": 1330.0,
+            "fat": 0.0,
+            "fiber": 0,
+            "sodium": 39300.0,
+            "energy": 0.0
+        }
+    },
+    {
+        "ingredient_name": "egg_substitute,_powder",
+        "type": "usda",
+        "nutritional_values": {
+            "protein": 55.5,
+            "carbs": 21.8,
+            "fat": 13.0,
+            "fiber": 0.0,
+            "sodium": 800,
+            "energy": 1860.0
+        }
+    },
+    {
+        "ingredient_name": "sweet_manioc_starch",
+        "type": "usda",
+        "nutritional_values": {
+            "protein": 0.0,
+            "carbs": 85.0,
+            "fat": 0.0,
+            "fiber": 0.0,
+            "sodium": 0.0,
+            "energy": 340
+        }
+    },
+    {
+        "ingredient_name": "rice_flour",
+        "type": "usda",
+        "nutritional_values": {
+            "protein": 7.69,
+            "carbs": 80.8,
+            "fat": 0.0,
+            "fiber": 0.0,
+            "sodium": 0.0,
+            "energy": 346
+        }
+    },
+    {
+        "ingredient_name": "catsup,_low_sodium",
+        "type": "usda",
+        "nutritional_values": {
+            "protein": 1.04,
+            "carbs": 27.4,
+            "fat": 0.1,
+            "fiber": 0.3,
+            "sodium": 20.0,
+            "energy": 423
+        }
+    }
+]

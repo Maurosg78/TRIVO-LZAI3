@@ -1,0 +1,274 @@
+{
+  "harina_de_arroz": {
+    "categoria": "harina",
+    "funcion": "sustituto_gluten",
+    "cost_kg": 1.8,
+    "nutrients": {
+      "protein": 7.69,
+      "fat": 0.0,
+      "carbs": 80.8,
+      "fiber": 0.0,
+      "sodium": 0.0,
+      "calories": 346,
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sugars_added": 0.0,
+      "sugars_total": 3.85
+    }
+  },
+  "harina_de_arroz_integral": {
+    "categoria": "harina",
+    "funcion": "sustituto_gluten",
+    "cost_kg": 2.0,
+    "nutrients": {
+      "protein": 7.5,
+      "fat": 2.5,
+      "carbs": 77.5,
+      "fiber": 5.0,
+      "sodium": 12.0,
+      "calories": 350,
+      "calcium": 0.0,
+      "iron": 1.8,
+      "sugars_added": 0.0,
+      "sugars_total": 0.0
+    }
+  },
+  "harina_de_garbanzo": {
+    "categoria": "harina",
+    "funcion": "base_proteica",
+    "cost_kg": 2.5,
+    "nutrients": {
+      "protein": 16.7,
+      "fat": 5.0,
+      "carbs": 70.0,
+      "fiber": 16.7,
+      "sodium": 0.0,
+      "calories": 400,
+      "calcium": 107,
+      "iron": 6.67,
+      "sugars_added": 0.0,
+      "sugars_total": 3.33
+    }
+  },
+  "almidon_de_maiz": {
+    "categoria": "almidon",
+    "funcion": "espesante",
+    "cost_kg": 1.8,
+    "nutrients": {
+      "protein": 0.26,
+      "fat": 0.05,
+      "carbs": 91.3,
+      "fiber": 0.9,
+      "sodium": 9.0,
+      "calories": 381,
+      "calcium": 2.0,
+      "iron": 0.47,
+      "sugars_added": 0.0,
+      "sugars_total": 0.0
+    }
+  },
+  "almidon_de_mandioca": {
+    "categoria": "almidon",
+    "funcion": "sustituto_trigo",
+    "cost_kg": 2.1,
+    "nutrients": {
+      "protein": 0.0,
+      "fat": 0.0,
+      "carbs": 85.0,
+      "fiber": 0.0,
+      "sodium": 0.0,
+      "calories": 340,
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sugars_added": 0.0,
+      "sugars_total": 0.0
+    }
+  },
+  "almidon_de_tapioca": {
+    "categoria": "almidon",
+    "funcion": "elasticidad_retencion_gases",
+    "cost_kg": 1.8,
+    "nutrients": {
+      "protein": 0.0,
+      "fat": 0.0,
+      "carbs": 87.5,
+      "fiber": 0.0,
+      "sodium": 300,
+      "calories": 375,
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sugars_added": 0.0,
+      "sugars_total": 0.0
+    }
+  },
+  "almidon_de_papa": {
+    "categoria": "almidon",
+    "funcion": "retencion_humedad_elasticidad",
+    "cost_kg": 2.0,
+    "nutrients": {
+      "protein": 6.9,
+      "fat": 0.34,
+      "carbs": 83.1,
+      "fiber": 5.9,
+      "sodium": 55.0,
+      "calories": 1490.0,
+      "calcium": 65.0,
+      "iron": 1.38,
+      "sugars_added": 0.0,
+      "sugars_total": 3.52
+    }
+  },
+  "aceite_de_oliva": {
+    "categoria": "aceite",
+    "funcion": "lubricacion_sabor",
+    "cost_kg": 4.0,
+    "nutrients": {
+      "protein": 0.0,
+      "fat": 93.3,
+      "carbs": 0.0,
+      "fiber": 0.0,
+      "sodium": 0.0,
+      "calories": 800,
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sugars_added": 0.0,
+      "sugars_total": 0.0
+    }
+  },
+  "goma_xantana": {
+    "categoria": "goma",
+    "funcion": "estabilizante_imita_gluten",
+    "cost_kg": 15.0,
+    "nutrients": {
+      "protein": 0.0,
+      "fat": 0.0,
+      "carbs": 125,
+      "fiber": 0.0,
+      "sodium": 3120.0,
+      "calories": 625,
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sugars_added": 0.0,
+      "sugars_total": 0.0
+    }
+  },
+  "bicarbonato_de_sodio": {
+    "categoria": "agente_leudante",
+    "funcion": "libera_co2",
+    "cost_kg": 1.2,
+    "nutrients": {
+      "protein": 1.04,
+      "fat": 0.1,
+      "carbs": 27.4,
+      "fiber": 0.3,
+      "sodium": 20.0,
+      "calories": 423,
+      "calcium": 15.0,
+      "iron": 0.35,
+      "sugars_added": 0.0,
+      "sugars_total": 21.3
+    }
+  },
+  "levadura_deshidratada": {
+    "categoria": "agente_fermentador",
+    "funcion": "fermentacion_aireacion",
+    "cost_kg": 2.5,
+    "nutrients": {
+      "protein": 23.9,
+      "fat": 0.9,
+      "carbs": 20.4,
+      "fiber": 6.5,
+      "sodium": 3380.0,
+      "calories": 775,
+      "calcium": 67.0,
+      "iron": 4.04,
+      "sugars_added": 0.0,
+      "sugars_total": 1.6
+    }
+  },
+  "cloruro_de_potasio": {
+    "categoria": "sal_mineral",
+    "funcion": "sustituto_de_sodio",
+    "cost_kg": 2.5,
+    "nutrients": {
+      "protein": 88.3,
+      "fat": 0.53,
+      "carbs": 2.59,
+      "fiber": 0.0,
+      "sodium": 50.0,
+      "calories": 1340.0,
+      "calcium": 178,
+      "iron": 14.5,
+      "sugars_added": 0.0,
+      "sugars_total": 0.0
+    }
+  },
+  "coliflor": {
+    "categoria": "vegetal",
+    "funcion": "baja_carbohidratos",
+    "cost_kg": 1.5,
+    "nutrients": {
+      "protein": 2.35,
+      "fat": 0.0,
+      "carbs": 4.71,
+      "fiber": 2.4,
+      "sodium": 24.0,
+      "calories": 24.0,
+      "calcium": 24.0,
+      "iron": 0.59,
+      "sugars_added": 0.0,
+      "sugars_total": 2.35
+    }
+  },
+  "papa": {
+    "categoria": "vegetal",
+    "funcion": "textura_cuerpo",
+    "cost_kg": 1.5,
+    "nutrients": {
+      "protein": 12.5,
+      "fat": 3.13,
+      "carbs": 47.1,
+      "fiber": 6.3,
+      "sodium": 375,
+      "calories": 266,
+      "calcium": 188,
+      "iron": 2.25,
+      "sugars_added": 0.0,
+      "sugars_total": 9.38
+    }
+  },
+  "espinaca": {
+    "categoria": "vegetal",
+    "funcion": "color_fibra",
+    "cost_kg": 2.0,
+    "nutrients": {
+      "protein": 3.53,
+      "fat": 0.0,
+      "carbs": 3.53,
+      "fiber": 2.4,
+      "sodium": 82.0,
+      "calories": 24.0,
+      "calcium": 94.0,
+      "iron": 3.18,
+      "sugars_added": 0.0,
+      "sugars_total": 0.0
+    }
+  },
+  "linaza_molida": {
+    "categoria": "semilla",
+    "funcion": "fibra_ligante",
+    "cost_kg": 4.0,
+    "nutrients": {
+      "protein": 21.4,
+      "fat": 42.9,
+      "carbs": 28.6,
+      "fiber": 28.6,
+      "sodium": 0.0,
+      "calories": 500,
+      "calcium": 257,
+      "iron": 7.14,
+      "sugars_added": 0.0,
+      "sugars_total": 0.0
+    }
+  }
+}

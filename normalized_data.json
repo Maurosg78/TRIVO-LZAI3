@@ -1,0 +1,394 @@
+[
+    {
+        "ingredient": "sal",
+        "function": "sabor_conservacion",
+        "cost_kg": 0.5,
+        "line_text": "Centro Regional de Estudios en Alimentos Saludables",
+        "page": 1,
+        "quantity_g": null
+    },
+    {
+        "ingredient": "sal",
+        "function": "sabor_conservacion",
+        "cost_kg": 0.5,
+        "line_text": "de los prototipos de masas de pizza saludables, siguiendo lo establecido en el Reglamento",
+        "page": 2,
+        "quantity_g": null
+    },
+    {
+        "ingredient": "sal",
+        "function": "sabor_conservacion",
+        "cost_kg": 0.5,
+        "line_text": "i Centro Regional de Estudios en Alimentos Saludables",
+        "page": 2,
+        "quantity_g": null
+    },
+    {
+        "ingredient": "sal",
+        "function": "sabor_conservacion",
+        "cost_kg": 0.5,
+        "line_text": "ii Centro Regional de Estudios en Alimentos Saludables",
+        "page": 3,
+        "quantity_g": null
+    },
+    {
+        "ingredient": "sal",
+        "function": "sabor_conservacion",
+        "cost_kg": 0.5,
+        "line_text": "saludables .................................................................................................................. 18",
+        "page": 4,
+        "quantity_g": null
+    },
+    {
+        "ingredient": "sal",
+        "function": "sabor_conservacion",
+        "cost_kg": 0.5,
+        "line_text": "iii Centro Regional de Estudios en Alimentos Saludables",
+        "page": 4,
+        "quantity_g": null
+    },
+    {
+        "ingredient": "sal",
+        "function": "sabor_conservacion",
+        "cost_kg": 0.5,
+        "line_text": "1 Centro Regional de Estudios en Alimentos Saludables",
+        "page": 5,
+        "quantity_g": null
+    },
+    {
+        "ingredient": "sal",
+        "function": "sabor_conservacion",
+        "cost_kg": 0.5,
+        "line_text": "2 Centro Regional de Estudios en Alimentos Saludables",
+        "page": 6,
+        "quantity_g": null
+    },
+    {
+        "ingredient": "sal",
+        "function": "sabor_conservacion",
+        "cost_kg": 0.5,
+        "line_text": "3 Centro Regional de Estudios en Alimentos Saludables",
+        "page": 7,
+        "quantity_g": null
+    },
+    {
+        "ingredient": "sal",
+        "function": "sabor_conservacion",
+        "cost_kg": 0.5,
+        "line_text": "2. Masa de pizza de coliflor C12* con ingredientes (salsa de tomate y queso)",
+        "page": 8,
+        "quantity_g": null
+    },
+    {
+        "ingredient": "sal",
+        "function": "sabor_conservacion",
+        "cost_kg": 0.5,
+        "line_text": "4. Masa de pizza de coliflor C12 con ingredientes (salsa de tomate y queso) horneados,",
+        "page": 8,
+        "quantity_g": null
+    },
+    {
+        "ingredient": "sal",
+        "function": "sabor_conservacion",
+        "cost_kg": 0.5,
+        "line_text": "2. Masa de pizza de garbanzo G14 con ingredientes (salsa de tomate y queso)",
+        "page": 8,
+        "quantity_g": null
+    },
+    {
+        "ingredient": "sal",
+        "function": "sabor_conservacion",
+        "cost_kg": 0.5,
+        "line_text": "4. Masa de pizza de garbanzo G12 con ingredientes (salsa de tomate y queso)",
+        "page": 8,
+        "quantity_g": null
+    },
+    {
+        "ingredient": "sal",
+        "function": "sabor_conservacion",
+        "cost_kg": 0.5,
+        "line_text": "4 Centro Regional de Estudios en Alimentos Saludables",
+        "page": 8,
+        "quantity_g": null
+    },
+    {
+        "ingredient": "sal",
+        "function": "sabor_conservacion",
+        "cost_kg": 0.5,
+        "line_text": "5 Centro Regional de Estudios en Alimentos Saludables",
+        "page": 9,
+        "quantity_g": null
+    },
+    {
+        "ingredient": "sal",
+        "function": "sabor_conservacion",
+        "cost_kg": 0.5,
+        "line_text": "6 Centro Regional de Estudios en Alimentos Saludables",
+        "page": 10,
+        "quantity_g": null
+    },
+    {
+        "ingredient": "sal",
+        "function": "sabor_conservacion",
+        "cost_kg": 0.5,
+        "line_text": "7 Centro Regional de Estudios en Alimentos Saludables",
+        "page": 11,
+        "quantity_g": null
+    },
+    {
+        "ingredient": "sal",
+        "function": "sabor_conservacion",
+        "cost_kg": 0.5,
+        "line_text": "8 Centro Regional de Estudios en Alimentos Saludables",
+        "page": 12,
+        "quantity_g": null
+    },
+    {
+        "ingredient": "sal",
+        "function": "sabor_conservacion",
+        "cost_kg": 0.5,
+        "line_text": "9 Centro Regional de Estudios en Alimentos Saludables",
+        "page": 13,
+        "quantity_g": null
+    },
+    {
+        "ingredient": "sal",
+        "function": "sabor_conservacion",
+        "cost_kg": 0.5,
+        "line_text": "10 Centro Regional de Estudios en Alimentos Saludables",
+        "page": 14,
+        "quantity_g": null
+    },
+    {
+        "ingredient": "sal",
+        "function": "sabor_conservacion",
+        "cost_kg": 0.5,
+        "line_text": "11 Centro Regional de Estudios en Alimentos Saludables",
+        "page": 15,
+        "quantity_g": null
+    },
+    {
+        "ingredient": "sal",
+        "function": "sabor_conservacion",
+        "cost_kg": 0.5,
+        "line_text": "12 Centro Regional de Estudios en Alimentos Saludables",
+        "page": 16,
+        "quantity_g": null
+    },
+    {
+        "ingredient": "sal",
+        "function": "sabor_conservacion",
+        "cost_kg": 0.5,
+        "line_text": "13 Centro Regional de Estudios en Alimentos Saludables",
+        "page": 17,
+        "quantity_g": null
+    },
+    {
+        "ingredient": "sal",
+        "function": "sabor_conservacion",
+        "cost_kg": 0.5,
+        "line_text": "14 Centro Regional de Estudios en Alimentos Saludables",
+        "page": 18,
+        "quantity_g": null
+    },
+    {
+        "ingredient": "sal",
+        "function": "sabor_conservacion",
+        "cost_kg": 0.5,
+        "line_text": "15 Centro Regional de Estudios en Alimentos Saludables",
+        "page": 19,
+        "quantity_g": null
+    },
+    {
+        "ingredient": "sal",
+        "function": "sabor_conservacion",
+        "cost_kg": 0.5,
+        "line_text": "16 Centro Regional de Estudios en Alimentos Saludables",
+        "page": 20,
+        "quantity_g": null
+    },
+    {
+        "ingredient": "sal",
+        "function": "sabor_conservacion",
+        "cost_kg": 0.5,
+        "line_text": "17 Centro Regional de Estudios en Alimentos Saludables",
+        "page": 21,
+        "quantity_g": null
+    },
+    {
+        "ingredient": "sal",
+        "function": "sabor_conservacion",
+        "cost_kg": 0.5,
+        "line_text": "PIZZAS SALUDABLES",
+        "page": 22,
+        "quantity_g": null
+    },
+    {
+        "ingredient": "sal",
+        "function": "sabor_conservacion",
+        "cost_kg": 0.5,
+        "line_text": "18 Centro Regional de Estudios en Alimentos Saludables",
+        "page": 22,
+        "quantity_g": null
+    },
+    {
+        "ingredient": "sal",
+        "function": "sabor_conservacion",
+        "cost_kg": 0.5,
+        "line_text": "19 Centro Regional de Estudios en Alimentos Saludables",
+        "page": 23,
+        "quantity_g": null
+    },
+    {
+        "ingredient": "agua",
+        "function": "hidratacion_cohesion",
+        "cost_kg": 0.0,
+        "line_text": "La humedad es la cantidad de agua libre y combinada que contiene una muestra. El",
+        "page": 24,
+        "quantity_g": null
+    },
+    {
+        "ingredient": "agua",
+        "function": "hidratacion_cohesion",
+        "cost_kg": 0.0,
+        "line_text": "contenido de agua se determina por la p\u00e9rdida de peso que experimenta la muestra al ser",
+        "page": 24,
+        "quantity_g": null
+    },
+    {
+        "ingredient": "sal",
+        "function": "sabor_conservacion",
+        "cost_kg": 0.5,
+        "line_text": "20 Centro Regional de Estudios en Alimentos Saludables",
+        "page": 24,
+        "quantity_g": null
+    },
+    {
+        "ingredient": "sal",
+        "function": "sabor_conservacion",
+        "cost_kg": 0.5,
+        "line_text": "fructosa, los cuales reducen la sal c\u00faprica (sales de Felhing) a \u00f3xido cuproso rojo. Esto",
+        "page": 25,
+        "quantity_g": null
+    },
+    {
+        "ingredient": "sal",
+        "function": "sabor_conservacion",
+        "cost_kg": 0.5,
+        "line_text": "21 Centro Regional de Estudios en Alimentos Saludables",
+        "page": 25,
+        "quantity_g": null
+    },
+    {
+        "ingredient": "agua",
+        "function": "hidratacion_cohesion",
+        "cost_kg": 0.0,
+        "line_text": "obtenidos son filtrados y lavados con agua, obteni\u00e9ndose as\u00ed los residuos correspondientes",
+        "page": 26,
+        "quantity_g": null
+    },
+    {
+        "ingredient": "agua",
+        "function": "hidratacion_cohesion",
+        "cost_kg": 0.0,
+        "line_text": "a fibra diet\u00e9tica insoluble (FDI). La soluci\u00f3n combinada de filtrado y agua de lavado es",
+        "page": 26,
+        "quantity_g": null
+    },
+    {
+        "ingredient": "sal",
+        "function": "sabor_conservacion",
+        "cost_kg": 0.5,
+        "line_text": "22 Centro Regional de Estudios en Alimentos Saludables",
+        "page": 26,
+        "quantity_g": null
+    },
+    {
+        "ingredient": "sal",
+        "function": "sabor_conservacion",
+        "cost_kg": 0.5,
+        "line_text": "23 Centro Regional de Estudios en Alimentos Saludables",
+        "page": 27,
+        "quantity_g": null
+    },
+    {
+        "ingredient": "agua",
+        "function": "hidratacion_cohesion",
+        "cost_kg": 0.0,
+        "line_text": "pruebas de horneado de las masas en diferentes formatos y medir la perdida de agua en el",
+        "page": 28,
+        "quantity_g": null
+    },
+    {
+        "ingredient": "agua",
+        "function": "hidratacion_cohesion",
+        "cost_kg": 0.0,
+        "line_text": "Agua evaporada (g) 70,8 28,7 30,1",
+        "page": 28,
+        "quantity_g": null
+    },
+    {
+        "ingredient": "agua",
+        "function": "hidratacion_cohesion",
+        "cost_kg": 0.0,
+        "line_text": "Agua evaporada (g) 53,6 20,6 19,4",
+        "page": 28,
+        "quantity_g": null
+    },
+    {
+        "ingredient": "agua",
+        "function": "hidratacion_cohesion",
+        "cost_kg": 0.0,
+        "line_text": "pierden agua en el proceso de horneado. Las masas de coliflor pierden entre un 21 a 25%",
+        "page": 28,
+        "quantity_g": null
+    },
+    {
+        "ingredient": "sal",
+        "function": "sabor_conservacion",
+        "cost_kg": 0.5,
+        "line_text": "24 Centro Regional de Estudios en Alimentos Saludables",
+        "page": 28,
+        "quantity_g": null
+    },
+    {
+        "ingredient": "sal",
+        "function": "sabor_conservacion",
+        "cost_kg": 0.5,
+        "line_text": "solicitado en la RSA y Ley de etiquetado nutricional N\u00ba 20.606 del Minsal.",
+        "page": 29,
+        "quantity_g": null
+    },
+    {
+        "ingredient": "sal",
+        "function": "sabor_conservacion",
+        "cost_kg": 0.5,
+        "line_text": "25 Centro Regional de Estudios en Alimentos Saludables",
+        "page": 29,
+        "quantity_g": null
+    },
+    {
+        "ingredient": "sal",
+        "function": "sabor_conservacion",
+        "cost_kg": 0.5,
+        "line_text": "26 Centro Regional de Estudios en Alimentos Saludables",
+        "page": 30,
+        "quantity_g": null
+    },
+    {
+        "ingredient": "sal",
+        "function": "sabor_conservacion",
+        "cost_kg": 0.5,
+        "line_text": "27 Centro Regional de Estudios en Alimentos Saludables",
+        "page": 31,
+        "quantity_g": null
+    },
+    {
+        "ingredient": "sal",
+        "function": "sabor_conservacion",
+        "cost_kg": 0.5,
+        "line_text": "28 Centro Regional de Estudios en Alimentos Saludables",
+        "page": 32,
+        "quantity_g": null
+    }
+]

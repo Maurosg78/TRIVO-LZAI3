@@ -1,0 +1,41 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+import json
+import pandas as pd
+
+def normalize_usda_json():
+    # Ajusta la ruta a donde tengas tu JSON
+    input_file = "data/normalized_usda_data.json"
+    output_file = "usda_unified.csv"
+
+    with open(input_file, "r", encoding="utf-8") as f:
+        data = json.load(f)
+
+    # data es una lista de dicts, cada uno con "ingredient_name", "type", "nutritional_values"...
+    rows = []
+    for item in data:
+        ing_name = item.get("ingredient_name", "Unknown")
+        nutri = item.get("nutritional_values", {})
+
+        row = {
+            "source": "USDA",  # o item.get("type") si prefieres
+            "FoodID": ing_name,
+            "FoodName": ing_name,
+            "Protein_g_100g": nutri.get("protein", None),
+            "Fat_g_100g": nutri.get("fat", None),
+            "Carbs_g_100g": nutri.get("carbs", None),
+            "Fiber_g_100g": nutri.get("fiber", None),
+            "Sodium_mg_100g": nutri.get("sodium", None),
+            "Energy_kcal_100g": nutri.get("energy", None)
+        }
+        rows.append(row)
+
+    df_usda = pd.DataFrame(rows)
+    print(f"Se han procesado {len(df_usda)} ingredientes de USDA.")
+
+    df_usda.to_csv(output_file, index=False, encoding="utf-8")
+    print(f"Archivo '{output_file}' generado con éxito!")
+
+if __name__ == "__main__":
+    normalize_usda_json()

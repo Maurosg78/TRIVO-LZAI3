@@ -1,0 +1,42 @@
+{
+  "harina_de_garbanzo": {
+    "funcion": "base_proteica",
+    "costo_kg": 2.50
+  },
+  "harina_de_arroz": {
+    "funcion": "sustituto_gluten",
+    "costo_kg": 1.80
+  },
+  "harina_de_maiz": {
+    "funcion": "textura_crujiente",
+    "costo_kg": 1.70
+  },
+  "almidon_de_maiz": {
+    "funcion": "espesante",
+    "costo_kg": 1.80
+  },
+  "almidon_de_tapioca": {
+    "funcion": "elasticidad_retencion_gases",
+    "costo_kg": 1.80
+  },
+  "goma_xantana": {
+    "funcion": "estabilizante_imita_gluten",
+    "costo_kg": 15.00
+  },
+  "agua": {
+    "funcion": "hidratacion_cohesion",
+    "costo_kg": 0.00
+  },
+  "aceite_de_oliva": {
+    "funcion": "lubricacion_sabor",
+    "costo_kg": 4.00
+  },
+  "sal": {
+    "funcion": "sabor_conservacion",
+    "costo_kg": 0.50
+  },
+  "levadura_en_polvo": {
+    "funcion": "fermentacion_aireacion",
+    "costo_kg": 2.50
+  }
+}

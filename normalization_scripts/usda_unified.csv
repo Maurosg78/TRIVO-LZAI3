@@ -1,0 +1,13 @@
+source,FoodID,FoodName,Protein_g_100g,Fat_g_100g,Carbs_g_100g,Fiber_g_100g,Sodium_mg_100g,Energy_kcal_100g
+USDA,"flour,_rice,_brown","flour,_rice,_brown",7.19,3.85,75.5,0.0,1.0,365.0
+USDA,chickpea_flour,chickpea_flour,16.7,5.0,70.0,16.7,0.0,400.0
+USDA,yeast,yeast,40.44,7.61,41.22,26.9,51.0,325.0
+USDA,cornstarch,cornstarch,0.26,0.05,91.3,0.9,9.0,381.0
+USDA,xanthan_gum,xanthan_gum,0.0,0.0,125.0,0.0,3120.0,625.0
+USDA,water,water,0.0,0.0,10.8,0.0,8.0,42.0
+USDA,potato_flour,potato_flour,6.9,0.34,83.1,5.9,55.0,1490.0
+USDA,salt,salt,0.0,0.0,1330.0,0.0,39300.0,0.0
+USDA,"egg_substitute,_powder","egg_substitute,_powder",55.5,13.0,21.8,0.0,800.0,1860.0
+USDA,sweet_manioc_starch,sweet_manioc_starch,0.0,0.0,85.0,0.0,0.0,340.0
+USDA,rice_flour,rice_flour,7.69,0.0,80.8,0.0,0.0,346.0
+USDA,"catsup,_low_sodium","catsup,_low_sodium",1.04,0.1,27.4,0.3,20.0,423.0
