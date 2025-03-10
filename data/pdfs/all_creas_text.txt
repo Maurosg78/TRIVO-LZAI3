@@ -1,0 +1,1500 @@
+=== Página 1 ===
+PROYECTO GREENSPIZZA CÓDIGO 20CV-152107
+“DESARROLLO DE MASAS DE PRE-PIZZAS CONGELADAS A
+BASE DE COLIFLOR Y GARBANZO”
+Beneficiario:
+ALIMENTOS GREENS SPA
+Desarrolló:
+Centro Regional de Estudios en Alimentos Saludables
+Marzo, 2022
+
+=== Página 2 ===
+Desarrollo de masas de pre-pizzas congeladas a base de coliflor y
+garbanzo
+RESUMEN EJECUTIVO
+En el presente informe, “Desarrollo de masas de pre-pizzas congeladas a bases de coliflor
+y garbanzo”, se detallan los resultados para las actividades de evaluación organoléptica de
+las pizzas e obtención de información nutricional del proyecto CORFO código 20CV-
+152107, adjudicado al beneficiario Alimentos Greens SpA. y ejecutado por CREAS a través
+del equipo técnico conformado por los ingenieros Alonso Godoy y Agustín Flores.
+Se realizó el test organoléptico de las pizzas seleccionadas en las actividades anteriores.
+El test sensorial se llevo a cabo por un panel de 15 jueces semi-entrenados (también
+llamados de laboratorio), donde la evaluación se desarrolló mediante una escala hedónica
+considerante los atributos sensoriales como apariencia general, color, olor, textura, sabor e
+intensidad de coliflor/garbanzo. Los resultados obtenidos, demuestran que el panel de
+jueces prefiere las muestras C12 y G12, siendo evaluados organolépticamente con una
+calidad aceptable para los consumidores, y cuyos resultados se explican en el ANEXO Nº
+1.
+Una vez obtenida las preferencias sensoriales, se realizó la validación nutricional analítica
+de los prototipos de masas de pizza saludables, siguiendo lo establecido en el Reglamento
+Sanitario de los Alimentos. Para la pizza de coliflor se obtuvo un producto con el sello de
+advertencia alto en sodio, sin gluten, sin azúcar añadida y bajo en grasa, por otro lado, para
+la pizza de garbanzo se obtuvo un producto con el sello de advertencia alto en sodio, sin
+gluten y bajo en grasa. Adicionalmente, se realizó la tabla de información nutricional para
+regulación EE.UU, los que se exponen en el ANEXO N°2.
+i Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+
+=== Página 3 ===
+Desarrollo de masas de pre-pizzas congeladas a base de coliflor y
+garbanzo
+CONCLUSIONES
+A través de la ejecución del test organoléptico, se puede concluir que los cuatro prototipos
+evaluados por los jueces tuvieron una calidad aceptable, sobre calificación 4,0 para cada
+atributo, siendo los productos C12 y G12 los preferidos por los consumidores.
+Al realizar el análisis de laboratorio para obtención de la información nutricional, se puede
+concluir que los productos C12 y G12 cumplen con los límites establecidos para los
+nutrientes críticos de calorías, grasas saturadas y azúcares, no así para sodio. Por este
+motivo, ambos productos deben llevar el sello de advertencia “alto en sodio”.
+A partir de información teórica de algunas vitaminas y minerales, en base a las
+formulaciones de los productos, y al análisis de laboratorio, se logró confeccionar la tabla
+de información nutricional para productos comercializados en EE.UU.
+ii Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+
+=== Página 4 ===
+Desarrollo de masas de pre-pizzas congeladas a base de coliflor y
+garbanzo
+ÍNDICE
+RESUMEN EJECUTIVO ..................................................................................................... i
+CONCLUSIONES ............................................................................................................... ii
+ÍNDICE .............................................................................................................................. iii
+Validación nutricional de los prototipos de masas de pre-pizzas
+saludables .................................................................................................................. 18
+iii Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+
+=== Página 5 ===
+Desarrollo de masas de pre-pizzas congeladas a base de coliflor y
+garbanzo
+TEST ORGANOLÉPTICO
+PROYECTO GREENSPIZZA CÓDIGO 20CV-152107
+1 Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+
+=== Página 6 ===
+Desarrollo de masas de pre-pizzas congeladas a base de coliflor y
+garbanzo
+ÍNDICE ANEXO Nº 1
+1.1. Introducción .............................................................................................................. 3
+1.2. Metodología .............................................................................................................. 3
+1.3. Resultados................................................................................................................ 5
+1.3.1. Frecuencia de consumo .................................................................. 5
+1.3.2. Resultados test de aceptabilidad (Masa pre-pizza coliflor) .............. 6
+1.3.1. Test de preferencia (Masa pre-pizza coliflor) ................................... 9
+1.3.2. Intención de compra (Masa pre-pizza coliflor) ................................. 9
+1.3.3. Resultados test de aceptabilidad (Masa pre-pizza garbanzo) ........ 10
+1.3.4. Test de preferencia (Masa pre-pizza garbanzo) ............................ 13
+1.3.5. Intención de compra (Masa pre-pizza garbanzo) ........................... 13
+1.4. Referencias ............................................................................................................ 14
+1.5. ANEXO A: Ficha de evaluación sensorial ............................................................... 14
+2 Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+
+=== Página 7 ===
+Desarrollo de masas de pre-pizzas congeladas a base de coliflor y
+garbanzo
+1.1. INTRODUCCIÓN
+Para establecer la aceptabilidad de los prototipos desarrollados, se realizó un test
+organoléptico un panel de al menos 15 jueces semi-entrenados (también llamados de
+laboratorio), los cuales entregan información igual o más valiosa que consumidores
+promedio comprometidos desde un inicio. Esto debido a que los jueces semi-entrenados,
+cuentan con un entrenamiento teórico similar al de los jueces entrenados, que realizan
+pruebas sensoriales con frecuencia y poseen suficiente habilidad, pero que generalmente
+sólo intervienen en pruebas discriminativas sencillas que no requieren una definición muy
+precisa de términos o escalas (Gustavo Cordero-Bueso, 2013).
+Para el test simple de aceptabilidad de consideró el análisis de los 4 prototipos
+seleccionados en actividades anteriores, estos fueron:
+• Pre-pizza coliflor: C12 y C12*.
+• Pre-pizza garbanzo: G12 y G14.
+1.2. METODOLOGÍA
+Para el estudio se realizó un panel piloto de 15 jueces semi-entrenados (ver ¡Error! No se
+encuentra el origen de la referencia.).
+Figura 1.1. Test de aceptabilidad
+En el test se solicitó al panelista que valore el grado de satisfacción que le produce consumir
+las muestras en cuanto a los atributos sensoriales como; apariencia general, color, olor,
+textura, sabor e intensidad de coliflor/garbanzo, en una escala de 7 puntos (que va desde
+una frase equivalente a “me disgusta mucho” hasta una “me gusta mucho”), donde se
+determina que la nota mínima para que el atributo sea aceptable es de 4,0. La escala se
+disgrega de la siguiente manera:
+1. Me disgusta mucho;
+2. Me disgusta;
+3. Me disgusta un poco;
+4. No me gusta ni me disgusta;
+3 Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+
+=== Página 8 ===
+Desarrollo de masas de pre-pizzas congeladas a base de coliflor y
+garbanzo
+5. Me gusta un poco;
+6. Me gusta;
+7. Me gusta mucho.
+Para el test organoléptico, se realizaron 2 pruebas sensoriales en diferentes días. El primer
+día se realizó el análisis de los prototipos de coliflor, estos fueron:
+1. Masa de pizza de coliflor C12* horneada, de ahora en adelante “Muestra 1.1”.
+2. Masa de pizza de coliflor C12* con ingredientes (salsa de tomate y queso)
+horneados, de ahora en adelante “Muestra 1.2”.
+3. Masa de pizza de coliflor C12 horneada, de ahora en adelante “Muestra 2.1”.
+4. Masa de pizza de coliflor C12 con ingredientes (salsa de tomate y queso) horneados,
+de ahora en adelante “Muestra 2.2”.
+Durante el segundo día se realizó en análisis de los prototipos de garbanzo, estos fueron:
+1. Masa de pizza de garbanzo G14 horneada, de ahora en adelante “Muestra 1.1”.
+2. Masa de pizza de garbanzo G14 con ingredientes (salsa de tomate y queso)
+horneados, de ahora en adelante “Muestra 1.2”.
+3. Masa de pizza de garbanzo G12 horneada, de ahora en adelante “Muestra 2.1”.
+4. Masa de pizza de garbanzo G12 con ingredientes (salsa de tomate y queso)
+horneados, de ahora en adelante “Muestra 2.2”.
+Para verificar si existen diferencias estadísticas significativas entre las muestras, se
+analizaron los resultados mediante un “Análisis de Varianza de un Factor” (ANOVA) en la
+herramienta Microsoft Excel, con un 95% de confianza. El ANOVA prueba la hipótesis de
+que las medias los atributos analizados en cada muestra son iguales, la hipótesis nula
+establece que todas las medias de la población (medias de los niveles de los factores) son
+iguales mientras que la hipótesis alternativa establece que al menos una es diferente.
+Al aplicar ANOVA de un factor se calcula un valor estadístico denominado F y su
+significación. F se obtiene al estimar la variación de las medias entre los grupos de la
+variable independiente y dividirla por la estimación de la variación de las medias dentro de
+los grupos. Se puede determinar que existe una diferencia significativa entre una y otra
+muestra cuando el valor calculado de F es superior al valor de F CRÍTICO.
+También se consultó sobre la frecuencia de consumo e intención de compra del producto.
+Estas pruebas son una herramienta muy efectiva en el diseño de productos y cada vez se
+utilizan con mayor frecuencia en las empresas debido a que son los consumidores quienes,
+en última instancia, convierten un producto en éxito o fracaso (Cordero-Bueso, 2013).
+4 Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+
+=== Página 9 ===
+Desarrollo de masas de pre-pizzas congeladas a base de coliflor y
+garbanzo
+1.3. RESULTADOS
+1.3.1. Frecuencia de consumo
+En una primera instancia, se consultó a los jueces en cuanto a la frecuencia de consumo
+de pizzas convencionales (harinas de trigo), pizzas con harinas sin gluten y/o ketos, como
+también el consumo de coliflor, para lo cual se obtuvieron los siguientes resultados.
+Figura 1.2. Frecuencia de consumo de pizzas convencionales
+Figura 1.3. Frecuencia de consumo de pizzas con harinas sin gluten y/o ketos
+Figura 1.4. Frecuencia de consumo de coliflor
+5 Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+
+=== Página 10 ===
+Desarrollo de masas de pre-pizzas congeladas a base de coliflor y
+garbanzo
+A partir de las consultas, se puede indicar que el 82% de los jueces consume 1-2 veces al
+mes pizzas con harinas de trigo y el 100% nunca o no frecuenta el consumido pizzas si
+gluten o ketos. En cuanto al consumo de coliflor, el 65% de los jueces consume 1-2 veces
+al mes, mientras que el resto no frecuenta su consumo.
+1.3.2. Resultados test de aceptabilidad (Masa pre-pizza coliflor)
+Las medias de la evaluación de los atributos de las muestras se encuentran en Tabla 1.1 y
+Figura 1.5, mientras que las distribuciones por categoría de la evaluación de la muestra se
+encuentran desde la Figura 1.6 hasta la Figura 1.9.
+Tabla 1.1. Resultados promedios de los atributos analizados en el test de aceptabilidad
+Muestra 1.1 Muestra 1.2 Muestra 2.1 Muestra 2.2
+Atributos Media Desv. Media Desv. Media Desv. Media Desv.
+Apariencia general 5,6 1,2 6,5 0,6 5,9 1,0 6,4 0,8
+Color 5,7 1,0 6,2 0,8 5,9 0,8 6,6 0,5
+Olor 5,6 1,1 6,5 0,5 5,9 1,0 6,2 0,7
+Textura 5,7 0,8 6,1 1,1 5,2 1,7 5,8 1,6
+Sabor 5,5 1,0 6,5 0,6 5,3 1,4 6,2 1,0
+Intensidad de coliflor 5,4 1,4 6,1 1,0 5,6 1,2 5,9 1,1
+Figura 1.5. Resultados de los promedios de los atributos, test aceptabilidad pre-pizza coliflor
+6 Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+
+=== Página 11 ===
+Desarrollo de masas de pre-pizzas congeladas a base de coliflor y
+garbanzo
+Figura 1.6. Distribución de la evaluación de los jueces en el test de aceptabilidad de apariencia
+general, color, olor, textura, sabor e intensidad de coliflor de la Muestra 1.1 en una escala hedónica
+de 7 puntos.
+Figura 1.7. Distribución de la evaluación de los jueces en el test de aceptabilidad de apariencia
+general, color, olor, textura, sabor e intensidad de coliflor de la Muestra 1.2 en una escala hedónica
+de 7 puntos.
+Figura 1.8. Distribución de la evaluación de los jueces en el test de aceptabilidad de apariencia
+general, color, olor, textura, sabor e intensidad de coliflor de la Muestra 2.1 en una escala hedónica
+de 7 puntos.
+7 Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+
+=== Página 12 ===
+Desarrollo de masas de pre-pizzas congeladas a base de coliflor y
+garbanzo
+Figura 1.9. Distribución de la evaluación de los jueces en el test de aceptabilidad de apariencia
+general, color, olor, textura, sabor e intensidad de coliflor de la Muestra 2.2 en una escala hedónica
+de 7 puntos.
+Los resultados promedios expuestos en la Tabla 1.1, demuestran que todas las muestras
+degustadas son aceptadas por los jueces evaluadores, obteniendo valores sobre nota 4,0
+para todos los atributos evaluados.
+Se apreció un aumento en las calificaciones de todos los atributos, cuando se realizó la
+evaluación con ingredientes para ambas masas de pre-pizza.
+En cuanto a la pregunta ¿Considera el producto organolépticamente aceptable?, el 100%
+de los jueces considera aceptable las muestras 1 y el 94% considera aceptables las
+muestras 2. Los resultados son muy buenos, ya que gran parte delos jueces no consume
+frecuentemente coliflor y pizzas no convencionales.
+Al comparar la evaluación de las masas de pre-pizzas sin ingredientes, la muestra 2.1
+obtuvo mejor calificación en los atributos de apariencia general, color, olor e intensidad de
+coliflor. Y al comparar la evaluación de las masas de pre-pizzas con ingredientes, la muestra
+1.2 fue la que obtuvo mejores calificaciones en los atributos de olor, textura, sabor e
+intensidad de coliflor.
+Por esta razón, se hace importante definir si las diferencias apreciadas entre las muestras
+son estadísticamente significativas o no. A continuación, se exponen los resultados del
+análisis de varianza al comparar las tres muestras. El valor de F crítico fue de 4,15 y los
+valores de F calculado se muestran en la Tabla 1.2
+Tabla 1.2. Valores de F calculado entre las muestras
+Atributos Muestra 1.1 vs Muestra 1.2 vs
+Muestra 2.1 Muestra 2.2
+Apariencia general 0,40 0,23
+Color 0,57 2,57
+Olor 0,45 2,08
+Textura 1,03 0,25
+Sabor 0,30 1,14
+Intensidad de coliflor 0,29 0,26
+8 Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+
+=== Página 13 ===
+Desarrollo de masas de pre-pizzas congeladas a base de coliflor y
+garbanzo
+A partir de los resultados, se puede indicar lo siguiente:
+1. No existen diferencias estadísticamente significativas entre la muestra 1.1 y 2.1–
+con una confianza del 95% – para todos los atributos evaluados.
+2. No existen diferencias estadísticamente significativas entre la muestra 1.2 y 2.2–
+con una confianza del 95% – para todos los atributos evaluados.
+1.3.1. Test de preferencia (Masa pre-pizza coliflor)
+Se realizó un test de preferencia entre las muestras, y los resultados obtenidos demuestran
+que la muestra 1 es la preferida por los jueces, con un 59% de preferencia, y cuyos
+resultados se muestran en la Figura 1.10.
+Figura 1.10. Test de preferencia pre-pizza coliflor
+1.3.2. Intención de compra (Masa pre-pizza coliflor)
+Se consultó sobre la intención de compra de las muestras evaluadas, a lo cual el 47% de
+los jueces evaluaron que “es probable que lo compre” y el 53% “definitivamente lo
+compraría”, obteniendo una alta aprobación de los productos.
+Figura 1.11. Intención de compra pre-pizza coliflor
+9 Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+
+=== Página 14 ===
+Desarrollo de masas de pre-pizzas congeladas a base de coliflor y
+garbanzo
+1.3.3. Resultados test de aceptabilidad (Masa pre-pizza garbanzo)
+Las medias de la evaluación de los atributos de las muestras se encuentran en Tabla 1.3 y
+Figura 1.12, mientras que las distribuciones por categoría de la evaluación de la muestra
+se encuentran desde la Figura 1.13 hasta la Figura 1.16.
+Tabla 1.3. Resultados promedios de los atributos analizados en el test de aceptabilidad
+Muestra 1.1 Muestra 1.2 Muestra 2.1 Muestra 2.2
+Atributos Media Desv. Media Desv. Media Desv. Media Desv.
+Apariencia general 5,6 1,2 6,5 0,6 5,9 1,0 6,4 0,8
+Color 5,7 1,0 6,2 0,8 5,9 0,8 6,6 0,5
+Olor 5,6 1,1 6,5 0,5 5,9 1,0 6,2 0,7
+Textura 5,7 0,8 6,1 1,1 5,2 1,7 5,8 1,6
+Sabor 5,5 1,0 6,5 0,6 5,3 1,4 6,2 1,0
+Intensidad de coliflor 5,4 1,4 6,1 1,0 5,6 1,2 5,9 1,1
+Figura 1.12. Resultados de los promedios de los atributos, test aceptabilidad pre-pizza garbanzo
+10 Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+
+=== Página 15 ===
+Desarrollo de masas de pre-pizzas congeladas a base de coliflor y
+garbanzo
+Figura 1.13. Distribución de la evaluación de los jueces en el test de aceptabilidad de apariencia
+general, color, olor, textura, sabor e intensidad de garbanzo de la Muestra 1.1 en una escala
+hedónica de 7 puntos.
+Figura 1.14. Distribución de la evaluación de los jueces en el test de aceptabilidad de apariencia
+general, color, olor, textura, sabor e intensidad de garbanzo de la Muestra 1.2 en una escala
+hedónica de 7 puntos.
+Figura 1.15. Distribución de la evaluación de los jueces en el test de aceptabilidad de apariencia
+general, color, olor, textura, sabor e intensidad de garbanzo de la Muestra 2.1 en una escala
+hedónica de 7 puntos.
+11 Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+
+=== Página 16 ===
+Desarrollo de masas de pre-pizzas congeladas a base de coliflor y
+garbanzo
+Figura 1.16. Distribución de la evaluación de los jueces en el test de aceptabilidad de apariencia
+general, color, olor, textura, sabor e intensidad de garbanzo de la Muestra 2.2 en una escala
+hedónica de 7 puntos.
+Los resultados promedios expuestos en la Tabla 1.3, demuestran que la muestra 1.1 no es
+aceptada por los jueces evaluadores, obteniendo valores bajo nota 4,0 para el atributo de
+sabor.
+Al igual que para la pizza de coliflor, en la pizza de garbanzo también se apreció un aumento
+en las calificaciones de todos los atributos, cuando se realizó la evaluación con ingredientes
+para ambas masas de pre-pizza de garbanzo.
+En cuanto a la pregunta ¿Considera el producto organolépticamente aceptable?, el 76% de
+los jueces considera aceptable las muestras 1 y el 94% considera aceptables las muestras
+2.
+Al comparar la evaluación de las masas de pre-pizzas sin ingredientes, la muestra 2.1
+obtuvo mejor calificación en los atributos de sabor e intensidad de garbanzo. Y al comparar
+la evaluación de las masas de pre-pizzas con ingredientes, la muestra 2.2 fue la que obtuvo
+mejores calificaciones en todos los atributos evaluados.
+Por esta razón, se hace importante definir si las diferencias apreciadas entre las muestras
+son estadísticamente significativas o no. A continuación, se exponen los resultados del
+análisis de varianza al comparar las tres muestras. El valor de F crítico fue de 4,15 y los
+valores de F calculado se muestran en la Tabla 1.4
+Tabla 1.4. Valores de F calculado entre las muestras
+Atributos Muestra 1.1 vs Muestra 1.2 vs
+Muestra 2.1 Muestra 2.2
+Apariencia general 0,28 0,84
+Color 0,29 0,07
+Olor 0,96 0,46
+Textura 0,00 1,12
+Sabor 10,90 3,81
+Intensidad de garbanzo 4,75 3,74
+12 Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+
+=== Página 17 ===
+Desarrollo de masas de pre-pizzas congeladas a base de coliflor y
+garbanzo
+A partir de los resultados, se puede indicar lo siguiente:
+1. Existen diferencias estadísticamente significativas entre la muestra 1.1 y 2.1– con
+una confianza del 95% – para el atributo de intensidad de garbanzo. Siendo mejor
+evaluada la muestra 2.1.
+2. No existen diferencias estadísticamente significativas entre la muestra 1.2 y 2.2–
+con una confianza del 95% – para todos los atributos evaluados.
+1.3.4. Test de preferencia (Masa pre-pizza garbanzo)
+Se realizó un test de preferencia entre las muestras, y los resultados obtenidos demuestran
+que la muestra 2 es la preferida por los jueces, con un 71% de preferencia, y cuyos
+resultados se muestran en la Figura 1.17.
+Figura 1.17. Test de preferencia pre-pizza garbanzo
+1.3.5. Intención de compra (Masa pre-pizza garbanzo)
+Se consultó sobre la intención de compra de las muestras evaluadas, a lo cual el 12% de
+los jueces evaluaron que “es probable que lo compre” y el 47% “definitivamente lo
+compraría”.
+Figura 1.18. Intención de compra pre-pizza garbanzo
+13 Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+
+=== Página 18 ===
+Desarrollo de masas de pre-pizzas congeladas a base de coliflor y
+garbanzo
+1.4. REFERENCIAS
+• Cordero-Bueso, G.A. (2013). Aplicación del análisis sensorial de los alimentos en la
+cocina y en la industria alimentaria. Sevilla, España.
+1.5. ANEXO A: FICHA DE EVALUACIÓN SENSORIAL
+14 Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+
+=== Página 19 ===
+Desarrollo de masas de pre-pizzas congeladas a base de coliflor y
+garbanzo
+15 Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+
+=== Página 20 ===
+Desarrollo de masas de pre-pizzas congeladas a base de coliflor y
+garbanzo
+16 Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+
+=== Página 21 ===
+Desarrollo de masas de pre-pizzas congeladas a base de coliflor y
+garbanzo
+17 Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+
+=== Página 22 ===
+Desarrollo de masas de pre-pizzas congeladas a base de coliflor y
+garbanzo
+VALIDACIÓN NUTRICIONAL DE LOS PROTOTIPOS DE MASAS DE PRE-
+PIZZAS SALUDABLES
+PROYECTO GREENSPIZZA CÓDIGO 20CV-152107
+18 Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+
+=== Página 23 ===
+Desarrollo de masas de pre-pizzas congeladas a base de coliflor y
+garbanzo
+ÍNDICE ANEXO Nº 2
+2.1. Introducción ............................................................................................................ 20
+2.2. Metodología ............................................................................................................ 20
+2.2.1. Humedad..................................................................................................... 20
+2.2.2. Cenizas ....................................................................................................... 20
+2.2.3. Extracto etéreo (grasa total) ........................................................................ 20
+2.2.4. Proteína cruda ............................................................................................. 21
+2.2.5. Compuestos no nitrogenados ...................................................................... 21
+2.2.6. Azúcares totales .......................................................................................... 21
+2.2.7. Contenido de fibra dietaria .......................................................................... 21
+2.2.8. Contenido de Sodio ..................................................................................... 22
+2.3. Resultados.............................................................................................................. 23
+2.3.1. Caracterización nutricional de prototipos finales seleccionados .................. 23
+2.3.2. Información nutricional de prototipos finales seleccionados
+regulación EE.UU. .................................................................................................. 26
+2.4. Referencias ................................................................................................. 28
+19 Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+
+=== Página 24 ===
+Desarrollo de masas de pre-pizzas congeladas a base de coliflor y
+garbanzo
+2.1. INTRODUCCIÓN
+Esta actividad consideró la validación analítica de la información nutricional de los
+prototipos, mediante la caracterización proximal (humedad, extracto etéreo (grasas totales),
+proteínas, cenizas, extractos no nitrogenados (hidratos de carbono disponibles), azúcares
+y sodio según lo establecido en el RSA.
+2.2. METODOLOGÍA
+Para la ejecución de los análisis de composición proximal de los productos finales
+desarrollados, se llevaron a cabo las siguientes metodologías:
+2.2.1. Humedad
+La humedad es la cantidad de agua libre y combinada que contiene una muestra. El
+contenido de agua se determina por la pérdida de peso que experimenta la muestra al ser
+secada en una estufa hasta alcanzar un peso constante. El método oficial, AOAC 930.15,
+utiliza una temperatura de desecado de 105°C, lo que trae problemas cuando el material a
+analizar contiene compuestos volátiles o se oxidan algunas sustancias. Es por esto que,
+dependiendo de la muestra, este análisis también puede realizarse a una temperatura
+menor a lo indicado en el protocolo oficial (70°C).
+2.2.2. Cenizas
+Las cenizas representan el residuo inorgánico presente en la muestra luego de calcinar la
+materia orgánica. Se utiliza el método AOAC 942.05, cuyo error final se debe a que una
+parte del material inorgánico puede volatilizarse por la alta temperatura en que opera la
+mufla. Los sólidos se queman contenidos en crisoles directo a la llama del mechero, y
+posteriormente, se llevan a 600°C en la mufla hasta alcanzar peso constante.
+2.2.3. Extracto etéreo (grasa total)
+Los extractos etéreos (AOAC 963.15) corresponden a la grasa bruta que contiene la
+muestra, entre las que se encuentran ésteres de ácidos grasos, fosfolípidos, lecitinas,
+esteroles, ceras y ácidos grasos libres. Para la extracción de estas sustancias se utiliza el
+método de Soxhlet, utilizando como extractante un disolvente no polar, por lo que los lípidos
+se disuelven fácilmente en él.
+20 Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+
+=== Página 25 ===
+Desarrollo de masas de pre-pizzas congeladas a base de coliflor y
+garbanzo
+2.2.4. Proteína cruda
+Para cuantificar la proteína presente en una muestra se utiliza el método de Microkjeldahl
+(AOAC 960.52). Esta técnica determina el contenido total de nitrógeno presente en la
+muestra, efectuando posteriormente una relación entre la cantidad de nitrógeno
+cuantificada y el contenido de éste en una proteína, cuyo valor es 6,25 a modo de obtener
+el porcentaje de proteína cruda en la muestra.
+El método se divide en 3 etapas; la primera consiste en una digestión ácida con ácido
+sulfúrico donde se adiciona óxido de mercurio y sulfato de potasio para incrementar el punto
+de ebullición del ácido y acelerar la degradación, respectivamente. Luego, se realiza una
+destilación por arrastre con vapor de amoníaco, el cual se solubiliza en una solución ácida
+de ácido bórico (color rosado-morado) formando el complejo NH4+:H2BO3 (color verde).
+Finalmente, este último es titulado con ácido clorhídrico, solución que desarma el complejo
+y se observa el viraje al color rosado-morado original.
+El problema de este método se basa en que asume que todo el nitrógeno presente en la
+muestra es de origen proteico, ya que no discrimina entre nitrógeno proteico e inorgánico.
+Además, no todas las proteínas contienen la misma cantidad de nitrógeno, por lo que la
+utilización del factor 6,25 conlleva a errores en los resultados finales.
+2.2.5. Compuestos no nitrogenados
+Los extractos no nitrogenados (ENN) pretenden ser un estimador de la suma de
+carbohidratos y otros compuestos digestibles que no posean nitrógeno en su composición
+química.
+Estos se determinan restando al 100% de la muestra el porcentaje de humedad, grasas,
+proteínas, fibra y cenizas, todos calculados en base húmeda, por lo que en su cómputo se
+incluyen los errores cometidos en la determinación de las otras fracciones.
+2.2.6. Azúcares totales
+La determinación de azúcares totales se realiza por el método Munson y Walker (AOAC
+1984), el cual consiste en la clarificación de la muestra seguida de una hidrólisis intensa, la
+cual transforma la sacarosa en una mezcla equimolar de los monosacáridos glucosa y
+fructosa, los cuales reducen la sal cúprica (sales de Felhing) a óxido cuproso rojo. Esto
+permite determinar la concentración de azúcares monosacáridos o azúcares directamente
+reductores del reactivo de Felhing (reacción positiva a la lactosa y maltosa).
+2.2.7. Contenido de fibra dietaria
+La determinación de fibra dietética soluble e insoluble se realiza principalmente mediante
+un método enzimático (AOAC 991.43), a través del uso en serie de las enzimas α-amilasa
+termoestable, proteasa y amiloglucosidasa. Posterior a esta digestión, los residuos
+21 Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+
+=== Página 26 ===
+Desarrollo de masas de pre-pizzas congeladas a base de coliflor y
+garbanzo
+obtenidos son filtrados y lavados con agua, obteniéndose así los residuos correspondientes
+a fibra dietética insoluble (FDI). La solución combinada de filtrado y agua de lavado es
+precipitada con etanol, recuperando otros residuos, los que corresponden a fibra dietética
+soluble (FDS). Finalmente, a ambos se les determina la cantidad de proteínas y cenizas
+(mediante los métodos ya descritos), para el cálculo de la fibra dietética de la muestra
+2.2.8. Contenido de Sodio
+Se determina la concentración de sodio en los alimentos mediante el método de
+Espectrofotometría de Absorción Atómica con llama (AOAC 985.35). El método es aplicable
+a alimentos con bajo contenido en grasa, como cereales, formulas infantiles, alimentos para
+animales, etc. Se basa en la destrucción de la materia orgánica por vía seca hasta lograr la
+digestión del alimento, para posteriormente solvatar los residuos con ácido nítrico diluido y
+lograr la determinación del o los analitos por Espectrofotometría de Absorción Atómica con
+llama.
+22 Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+
+=== Página 27 ===
+Desarrollo de masas de pre-pizzas congeladas a base de coliflor y
+garbanzo
+2.3. RESULTADOS
+2.3.1. Caracterización nutricional de prototipos finales seleccionados
+Durante esta actividad se realizó la caracterización nutricional de los prototipos
+seleccionados por el test organoléptico y empresa, de manera de identificar los
+componentes presentes y generar la información nutricional del producto definitivo.
+Los prototipos seleccionados fueron la muestra C12 para pre-pizza de coliflor y G12 para
+pre-pizza de garbanzo, donde los parámetros analíticos a determinar fueron los siguientes:
+• Energía o valor energético [kcal]
+• Proteínas Totales [g]
+• Grasas totales [g]
+• Fibra dietaria total [g]
+• Hidratos de carbonos disponibles [g]
+• Azúcares totales [g]
+• Sodio [g]
+En la Tabla 2.1 se presentan los resultados del análisis proximal, azúcares totales y sodio
+del prototipo final, de acuerdo con las metodologías descritas en Capítulo 2.2.
+Tabla 2.1. Composición proximal, azucares totales y sodio del prototipo seleccionado, en base
+húmeda por 100 g de producto
+Parámetros Prototipo C12 Prototipo G12
+Humedad (%) 39,28 ± 1,07 29,80 ± 0,46
+Cenizas totales (%) 1,39 ± 0,14 1,88 ± 0,10
+Grasas totales (%) 0,93 ± 0,04 0,27 ± 0,00
+Proteínas (%) 5,28 ± 0,04 6,47 ± 0,03
+Fibra dietaria total (%) 4,54 ± 0,05 5,59 ± 0,54
+H. de Carbono Disponible (%) 48,58 55,99
+Azúcares totales (g) 3,55 ± 0,27 5,27 ± 0,44
+Sodio (mg) 720,9 934
+A continuación, se presentan los límites establecidos en la nueva ley de etiquetado de los
+alimentos (26.606), del reglamento sanitario de los alimentos (RSA) para alimentos sólidos.
+Tabla 2.2. Límites de contenidos de energía, sodio, azúcares totales y grasas saturadas en
+alimentos, según RSA.
+Nutrientes críticos Límites
+Cantidad de Energía (Kcal/100) 275
+Grasas Saturadas (g/100) 4
+Azucares totales (g/100g) 10
+Sodio (mg/100 g) 400
+23 Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+
+=== Página 28 ===
+Desarrollo de masas de pre-pizzas congeladas a base de coliflor y
+garbanzo
+Una actividad adicional, solicitada por el cliente, el cual permitió definir el rendimiento del
+proceso de horneado y definir el formato de venta de las masas de pre-pizza, fue realizar
+pruebas de horneado de las masas en diferentes formatos y medir la perdida de agua en el
+horneado. Estas pruebas se muestran en las siguientes tablas y figura.
+Tabla 2.3. Pruebas de horneado para masa de pre-pizza de coliflor (prototipo C12).
+Prueba con masa de Coliflor Prueba Prueba Prueba
+(prototipo C12) 1 2 3
+Altura (cm) 0,5-0,6 0,4-0,5 0,3-0,4
+Diámetro (cm) 27,5 16,5 16,5
+Peso masa fresca (g) 333,0 115,1 123,2
+Peso masa pre-horneada (g) 262,2 86,4 93,1
+Agua evaporada (g) 70,8 28,7 30,1
+Rendimiento del proceso (%) 79% 75% 76%
+Tabla 2.4. Pruebas de horneado para masa de pre-pizza de coliflor (prototipo C12).
+Prueba con masa de garbanzo Prueba Prueba Prueba
+(prototipo G12) 1 2 3
+Altura (cm) 0,5-0,6 0,4-0,5 0,3-0,4
+Diámetro (cm) 27,5 16,5 16,5
+Peso masa fresca (g) 338,0 131,4 105,8
+Peso masa pre-horneada (g) 284,4 110,8 86,4
+Agua evaporada (g) 53,6 20,6 19,4
+Rendimiento del proceso (%) 84% 84% 82%
+Figura 2.1. Pruebas de horneado para masas de pre-pizza.
+Los resultados a partir de la experiencia, demuestran que ambas masas de pre-pizza
+pierden agua en el proceso de horneado. Las masas de coliflor pierden entre un 21 a 25%
+en peso neto, mientras que las masas de garbanzo pierden entre un 16 a 18% de su peso
+24 Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+
+=== Página 29 ===
+Desarrollo de masas de pre-pizzas congeladas a base de coliflor y
+garbanzo
+neto. A partir de los resultados obtenidos, se indica que las masas de pizza tendrán un
+formato de venta tamaño familiar cercano a los 28 cm de diámetro, con una altura entre 0,5
+a 0,6 cm y un peso neto final después de horneado de 260 gramos para la pizza de coliflor
+y 280 gramos para la pizza de garbanzo.
+En base a los datos analíticos y pruebas de rendimiento entregados, en Tabla 2.5 y Tabla
+2.6 se presenta los etiquetados nutricionales de los prototipos finales, conforme a lo
+solicitado en la RSA y Ley de etiquetado nutricional Nº 20.606 del Minsal.
+Tabla 2.5. Información nutricional pizza de coliflor, en base húmeda por 100 g de producto.
+INFORMACION NUTRICIONAL Prototipo C12
+Peso neto: 260 g
+1
+Porción: 32,5 g 100 g
+porción
+Porciones por envase: 8
+Energía (kcal) 224 73
+Proteínas (g) 5,3 1,7
+Grasa Total (g) 0,9 0,3
+H. de C. disp. (g) 48,6 15,8
+Azúcar total (g) 3,6 1,2
+Fibra dietaria total (g) 4,5 1,5
+Sodio (mg) 721 234
+Tabla 2.6. Información nutricional pizza de garbanzo, en base húmeda por 100 g de producto.
+INFORMACION NUTRICIONAL Prototipo C12
+Peso neto: 260 g
+1
+Porción: 32,5 g 100 g
+porción
+Porciones por envase: 8
+Energía (kcal) 252 88
+Proteínas (g) 6,5 2,3
+Grasa Total (g) 0,3 0,1
+H. de C. disp. (g) 56,0 19,6
+Azúcar total (g) 5,3 1,8
+Fibra dietaria total (g) 5,6 2,0
+Sodio (mg) 934 327
+Como se puede observar en la información nutricional entregada, ambos productos
+cumplen con los límites establecidos para los nutrientes críticos de calorías, grasas
+saturadas y azúcares. Por otro lado, no cumplen con los límites establecidos para sodio,
+por lo que ambos productos deben llevar el sello de advertencia “alto en sodio”.
+25 Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+
+=== Página 30 ===
+Desarrollo de masas de pre-pizzas congeladas a base de coliflor y
+garbanzo
+2.3.2. Información nutricional de prototipos finales seleccionados regulación
+EE.UU.
+A partir de la información nutricional obtenida por análisis de laboratorio, la empresa solicitó
+diseñar la información nutricional para comercializar los productos en EE.UU, para lo cual
+se realizó un análisis teórico de algunas vitamina y minerales para complementar la
+información y cumplir con la regulación establecida por la FDA (Foodand Drug
+Administration). A continuación, se muestra la información nutricional para los prototipos de
+pizza desarrollados.
+Tabla 2.7. Información nutricional pizza de coliflor, regulación EE.UU
+Nutrition Facts
+8 servings per container
+Sereving size 1/8 pizza (32,5g)
+Amount per serving
+Calories 73
+% Daily Value*
+Total Fat 0,3g 0,4%
+Satured Fat 0,1g 0,4%
+Trans Fat 0g
+Cholesterol 0mg 0%
+Sodium 234mg 10,2%
+Total Carbohydrate 16g 5,7%
+Dietary Fiber 1,5g 5,3%
+Total Sugars 1,2g
+Incluides 0g Added Sugars 0%
+Protein 1,7g
+Vitamin 0mcg 0,2%
+Calcium 7mg 0,5%
+Iron 0,4mg 2,5%
+Potassium 55mg 1,2%
+The % Daily Value (DV) tells you how much a nutrient in a serving of
+food contributes to a daily diet. 2,000 calories a day is used for
+general nutrition advice
+26 Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+
+=== Página 31 ===
+Desarrollo de masas de pre-pizzas congeladas a base de coliflor y
+garbanzo
+Tabla 2.8. Información nutricional pizza de garbanzo, regulación EE.UU.
+Nutrition Facts
+8 servings per container
+Sereving size 1/8 pizza (35g)
+Amount per serving
+Calories 88
+% Daily Value*
+Total Fat 0,1g 0,1%
+Satured Fat 0,01g 0,1%
+Trans Fat 0g
+Cholesterol 0mg 0%
+Sodium 327mg 14,2%
+Total Carbohydrate 20g 7,1%
+Dietary Fiber 2,0g 7,0%
+Total Sugars 1,8g
+Incluides 0,8g Added Sugars 1,5%
+Protein 2,3g
+Vitamin 0mcg 0,0%
+Calcium 4mg 0,3%
+Iron 1mg 3,3%
+Potassium 79mg 1,7%
+The % Daily Value (DV) tells you how much a nutrient in a serving of
+food contributes to a daily diet. 2,000 calories a day is used for
+general nutrition advice
+27 Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+
+=== Página 32 ===
+Desarrollo de masas de pre-pizzas congeladas a base de coliflor y
+garbanzo
+2.4. REFERENCIAS
+• Decreto N° 977. Reglamento Sanitario de los Alimentos, Santiago, Chile, 1996
+• Szczesniak, Alina S. (2002). Texture is a sensory property. Food Quality and
+Preference, vol. 13, 215–225.
+28 Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+=== Página 1 ===
+INFORME DE AVANCE PROYECTO CREA Y VALIDA CÓDIGO 20CV-152107
+“GREENSPIZZA”
+Beneficiario:
+ALIMENTOS GREENS SPA
+Desarrolló:
+Centro Regional de Estudios en Alimentos Saludables
+Julio, 2021
+
+=== Página 2 ===
+GreenspizzaGreenspizza
+RESUMEN EJECUTIVO
+En el presente informe, “Greenspizza”, se detallan los resultados obtenidos a partir de la
+ejecución del proyecto CORFO Crea y Valida proyecto de Innovación Empresarial de
+Rápida Implementación, código 20CV-152107, adjudicado al beneficiario Alimentos Greens
+SpA. y ejecutado por CREAS a través del equipo técnico conformado por los ingenieros
+Alonso Godoy y Agustín Flores.
+En el marco de este proyecto se presenta los resultados que apoyan la rendición del hito
+técnico de continuidad del mes 3, donde Creas desea informar y dar cumplimiento a:
+“Listado de ingredientes y de la tabla nutricional teórica que se espera de la propuesta.
+Junto con esto, se debe realizar pruebas a nivel de laboratorio o casero, que cumplan con
+el resultado”.
+El presente proyecto nace de la inquietud y necesidad del beneficiario por elaborar masas
+de pre-pizzas congeladas a bases de coliflor y garbanzo. Siendo una alternativa más
+saludable a los productos tradicionales del mercado, elaborando productos libres de gluten,
+sin sellos de advertencia de nutrientes críticos y sin conservantes artificiales.
+Para la consecución de este objetivo, en primera instancia, se realizó el establecimiento de
+parámetros de línea base de productos comerciales, donde se analizaron ingredientes,
+propiedades nutricionales y parámetros fisicoquímicos, por el momento: textura. A partir del
+desarrollo de esta actividad se obtuvieron parámetros base y sé concluyó que los productos
+comerciales utilizan diferentes tipos de: harinas, almidones, aceites y gomas. Los
+resultados de los análisis de textura entregaron valores que rodean entre los 75 a 128
+Newton, los cuales se explicitan en el ANEXO Nº 1.
+De manera paralela, en el ANEXO Nº 2, se abordó el diseño del proceso e ingredientes a
+utilizar en el desarrollo de masas de pre-pizzas congeladas, donde se definieron dos líneas
+productivas en cuanto a: pre-tratamiento de la materia prima, procesos tecnológicos y
+condiciones de procesamiento, envasado y almacenamiento, que son necesarios para
+lograr los objetivos del proyecto. Durante esta actividad también, se plantearon alternativas
+de equipamiento, se generó y definió una lista de ingredientes entre los que se encuentran:
+coliflor, harinas de garbanzo, harinas de papas, harinas de maíz, almidones, harinas
+extruidas, entre otros ingredientes. Dichos ingredientes fueron probados y analizados su
+aplicabilidad en las diferentes formulaciones desarrolladas en los prototipos.
+Posteriormente, se procedió a desarrollar pruebas de concepto, donde se desarrollaron seis
+masas de pre-pizzas congeladas de coliflor y tres masas de pre-pizzas congeladas de
+garbanzo, las cuales fueron testeadas junto a la empresa, los que se explican en el ANEXO
+N°3.
+i Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+
+=== Página 3 ===
+GreenspizzaGreenspizza
+CONCLUSIONES
+A través de la ejecución del proyecto hasta la fecha, se puede concluir que es posible
+desarrollar masas de pre-pizzas congeladas a base de coliflor y garbanzo, con propiedades
+saludables, nutricionales y organolépticas aceptables. Siendo estos prototipos libres de
+gluten, sin sellos de advertencia ni conservantes artificiales.
+En la actividad número 1, se logró determinar propiedades nutricionales y parámetros
+fisicoquímicos como la textura, logrando concluir que los productos comerciales utilizan
+diferentes tipos de: harinas, almidones, aceites y gomas. Los resultados de los análisis de
+textura entregaron valores que rodean entre los 75 a 128 Newton. Para los demás
+parámetros comprometidos: actividad de agua y humedad, se medirán con los prototipos
+finales.
+Con relación al diseño del proceso e ingredientes a utilizar en el desarrollo de masas de
+pre-pizzas congeladas, se pudo determinar las Líneas de proceso para masa de pre-pizza
+de garbanzo y coliflor. Por otra parte, se logró determinar la formulación de los prototipos,
+considerando los requerimientos nutricionales, las propiedades tecnológicas de los
+ingredientes y los requerimientos de la empresa mandante, cumpliendo con la elaboración
+de masas de pre-pizzas a base de coliflor y/o garbanzo congelados, libres de gluten, sin
+sellos de advertencia ni preservantes artificiales.
+Según las conversaciones entre equipo técnico CREAS y los representantes de la empresa,
+se evaluaron sensorialmente los prototipos, llegando a converger en que los mejores
+prototipos generados fueron: Pre-pizza coliflor: P6, P3 y P5; y Pre-pizza garbanzo: P2 y P3.
+En base a estos resultados, se procederá a realizar mejoras en los prototipos
+seleccionados, con relación a: reemplazo de ingredientes, línea productiva
+(específicamente en el formado prensado), y ajuste de las formulaciones para dejar el
+producto libre de sellos de advertencia.
+ii Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+
+=== Página 4 ===
+GreenspizzaGreenspizza
+ÍNDICE
+RESUMEN EJECUTIVO ..................................................................................................... i
+CONCLUSIONES ............................................................................................................... ii
+ÍNDICE .............................................................................................................................. iii
+DEFINICIÓN DE LÍNEA BASE DE LAS CARACTERÍSTICAS QUE SE
+DESEAN ALCANZAR EN LAS MASAS DE PRE-PIZZAS SALUDABLES ......................... 1
+DISEÑO DE PROCESOS Y FORMULACIÓN TEÓRICA DE PROTOTIPOS
+A DESARROLLAR ............................................................................................................ 9
+DESARROLLO DE PRUEBAS DE CONCEPTO ...................................... 17
+iii Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+
+=== Página 5 ===
+GreenspizzaGreenspizza
+DEFINICIÓN DE LÍNEA BASE DE LAS CARACTERÍSTICAS QUE SE DESEAN
+ALCANZAR EN LAS MASAS DE PRE-PIZZAS SALUDABLES
+PROYECTO CREA Y VALIDA CÓDIGO 20CV-152107
+1 Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+
+=== Página 6 ===
+GreenspizzaGreenspizza
+ÍNDICE ANEXO Nº 1
+1.1. Introducción .............................................................................................................. 3
+1.2. Metodología .............................................................................................................. 3
+1.3. Resultados................................................................................................................ 3
+1.3.1. Selección de productos comerciales ............................................................. 3
+1.3.2. Parámetros fisicoquímicos productos comerciales ........................................ 7
+Análisis de perfil de textura .................................................................................. 7
+1.4. Referencias .............................................................................................................. 8
+2 Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+
+=== Página 7 ===
+GreenspizzaGreenspizza
+1.1. INTRODUCCIÓN
+El presente anexo describe los principales resultados obtenidos a partir del desarrollo de la
+actividad número uno del proyecto, en la cual se buscó como objetivo establecer los
+parámetros de línea base de masas de pre-pizzas comerciales, libres de gluten y/o a base
+de coliflor, para así obtener una base en cuanto a los ingredientes, propiedades
+nutricionales y parámetros fisicoquímicos de las posteriores pruebas de concepto a
+desarrollar durante el proyecto.
+1.2. METODOLOGÍA
+El desarrollo de esta actividad contempló la realización de una línea base de propiedades
+nutricionales y organolépticas de productos de masas de pre-pizzas comerciales. Para ello,
+se procedió a la selección de productos comerciales de pre-pizzas. Estos prototipos fueron
+evaluados respecto a sus formulaciones, evaluación de los ingredientes empleados y su
+funcionalidad tecnológica dentro de la fórmula. Además, se determinaron parámetros
+fisicoquímicos y aspectos organolépticos relevantes como la textura.
+1.3. RESULTADOS
+1.3.1. Selección de productos comerciales
+Se realizó una selección de productos comerciales con características organolépticas que
+se desean alcanzar, y que cumplan con los criterios de calidad que la empresa desea en
+los productos a desarrollar durante el proyecto.
+Estos productos fueron (ver Figura 1.1):
+1. Pre-pizza sin gluten (Nutrisa)
+2. Pre-pizza de arroz (Convida).
+3. Pizzetta vegano, sin gluten (Dilici).
+4. Vegetable crust pizza (Daiya) .
+5. Pre-pizza (Caulipower).
+6. Ketomasas (Mr. Keto).
+3 Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+
+=== Página 8 ===
+GreenspizzaGreenspizza
+Figura 1.1. Productos comerciales
+A continuación, se muestra la lista de ingredientes (Tabla 1.1) y etiquetado nutricional (Tabla
+1.2) que presentan los productos comerciales.
+Tabla 1.1. Ingredientes utilizados en productos comerciales
+Producto Lista de ingredientes
+Pre-pizza Harina de arroz, Almidón de maíz, Almidón de mandioca, Aceite de soya
+sin gluten hidrogenado e interesterificado, Aceite de palmiste hidrogenado e interesterificado,
+(Nutrisa) Propilenglicol, Tbhq, ácido cítrico, Huevo deshidratado, Inulina, ésteres de
+poliglicerol con ácidos grasos comestibles, Mono y diglicéridos, Goma guar, Goma
+xanthan, Bicarbonato de sodio, Fosfato de sodio, Fosfato de aluminio, Fosfato
+monocálcico, Albúmina de huevo deshidratada, Azúcar, Levadura deshidratada,
+Lecitina de soya, Sal, Fosfato tricálcico, Sorbato de potasio, Propionato de calcio,
+Sulfato ferroso, Mononitrato de tiamina, ácido fólico, Riboflavina, Niacinamida,
+Dióxido de silicio amorfo, Soya, Huevo, Albúmina de huevo
+Pre-pizza de Harina de arroz, Almidón de tapioca, Almidón de maíz, Aceite de maravilla, Azúcar,
+arroz Hidroxipropilmetilcelulosa, Levadura fresca, Fosfato tricálcico, Fibra de naranja,
+(Convida). Cloruro de potasio, Sal, Propionato de calcio, Saborizante idéntico al natural,
+Maltodextrina, Preparación enzimática, Vitamina b1, ácido fólico, Vitamina b2,
+Riboflavina, Vitamina b3. Puede contener trazas de soya, leche, derivados de la
+leche.
+Pizzetta Agua, almidón de maíz, harina de arroz, almidón de mandioca, pasta de tomate,
+vegano, sin aceite de maravilla, polidextrosa, dextrosa, sal, fibra de psyllium, proteína de arveja,
+gluten fibra de maíz, hidroxipropilmetilcelulosa, levadura, almidón modificado de maíz,
+(Dilici). saborizante iddentico al natural, fortificante de harina (hierro, sulfato hidratado,
+maltodextrina, nicotinaida, tiamina mono nitrato, ácido fólico, pirosil, riboflavina)
+Vegetable Masa sin gluten (agua, mezcla de vegetales (coliflor, papa, espinaca), almidón de
+crust pizza tapioca, harina de arroz, almidón de papa, harina de garbanzo, almidón de arroz,
+(Daiya) semillas de linaza molidas, aceite de oliva, azúcar de caña, levadura, psyllium,
+4 Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+
+=== Página 9 ===
+GreenspizzaGreenspizza
+goma guar, sal de mar, mezcla de sucedáneo de queso mezzarella, parmesano y
+feta (agua filtrada, almidón de tapioca, aceite de coco, almidón de mama, aceite de
+canola y/o cártamo, saborizantes naturales vegetales, sal, proteína de garbanzo,
+fosfato tricálcico, ácido láctico, proteína de papa, camote, almidón de arveja, goma
+xantana, extracto de levadura, levadura inactiva), salsa de tomate con albahaca
+(agua, tomate, aceite de oliva, albahaca, pimienta negra, ajo, orégano, sal),
+orégano, perejil.
+Pre-pizza Coliflor, harina de arroz integral, harina de arroz, agua, almidón de maíz, almidón
+(Caulipower) de tapioca, aceite de girasol, huevo, aceite de oliva virgen extra, polvo de hornear
+(pirofosfato ácido de sodio, bicarbonato de sodio, almidón de maíz, fosfato
+monocálcico), goma xantana, azúcar, levadura , Vinagre, sal.
+Ketomasas Masa keto a la piedra, harina de coco, harina de almendras, queso mozzarella y
+(Mr. Keto) queso crema.
+En los productos comerciales evaluados se observa la utilización de diferentes tipos de
+harinas, tanto convencionales o en formato extruido, entre los cuales se encuentran:
+ Harinas de arroz
+ Harina de arroz integral
+ Harina de garbanzo
+ Almidón de maíz
+ Almidón de mandioca
+ Almidón de tapioca
+ Almidón de papa
+También se observa la utilización de aceites, como:
+ Aceite de maravilla
+ Aceite de oliva
+ Aceite de soya
+ Aceite de canola
+ Aceite de cártamo
+También se observa la utilización de gomas, como:
+ Goma xantana
+ Goma guar
+5 Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+
+=== Página 10 ===
+GreenspizzaGreenspizza
+Tabla 1.2. Información nutricional de productos comerciales
+Nutrientes Pre-pizza Pizzetta Vegetable Pre-pizza Ketomasas
+críticos de arroz Vegano crust (Caulipower)
+(Mr. Keto)
+(convida) sin gluten pizza
+(Dilici) (Daiya)
+Energía (kcal) 272 220 291 167 251,4
+Proteínas (g) 3,6 1,7 3 2,0 11,01
+Grasa Total (g) 4,4 2,8 12 5,0 16,58
+Grasa sat. (g) 0,7 0,3 5,5 0,5 6,54
+Grasa monoinsat. (g) 1,0 0,9 5 S/i 2,56
+Grasa poliinsat. (g) 2,7 1,3 1,7 S/i 0
+Grasa trans (g) 0,1 0,0 0 0,0 7,48
+H. de C. disp. (g) 54,5 47,3 44 28 5,55
+Azúcar total (g) 6,6 2,4 3 1,0 2,02
+Fibra dietaria total (g) S/i 2,7 3 1,0 S/i
+Sodio (mg) 280 366 543 170 697,36
+Sellos de
+advertencia
+-
+Según el reglamento sanitario de los alimentos (RSA, 1996), en el párrafo I “De otros
+productos farináceos” y párrafo III “Del pan y los productos de pastelería y repostería” se
+mencionan los siguientes artículos:
+ ARTÍCULO 346.- La denominación genérica de alimentos farináceos está reservada
+para designar a los productos naturales, simples o transformados, que se
+caracterizan por contener sustancias amiláceas como componente dominante,
+acompañado o no de otros nutrientes, tales como proteínas, grasas, azúcares y
+otros.
+ ARTÍCULO 356.- Con el nombre de pan sin otra denominación, se entiende el
+producto de la cocción de la masa resultante de una mezcla de harina de trigo,
+levadura de panificación, agua potable y sal comestible, con o sin adición de
+mejoradores de panificación y/o enriquecedores, tales como: leche, azúcares,
+materias grasas u otros autorizados por este reglamento.
+6 Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+
+=== Página 11 ===
+GreenspizzaGreenspizza
+1.3.2. Parámetros fisicoquímicos productos comerciales
+Durante la actividad, se realizaron algunos ensayos de laboratorio para determinar
+parámetros fisicoquímicos el perfil de textura de los prototipos comerciales
+Análisis de perfil de textura
+Para el análisis de perfil de textura se utilizó un analizador de textura TMS-pro, donde se
+realizaron pruebas de perfil de esfuerzo de corte (cizalla) (Figura 1.2).
+Figura 1.2. Texturómetro TMS-pro y análisis de pizza.
+Las muestras ensayadas fueron cocinadas en un horno a 220°C por 5 minutos con salsa
+de tomate y queso para masas sin ingredientes.
+Las condiciones del ensayo fueron:
+• Velocidad de cabezal 500 mm/min.
+• Desplazamiento 60 mm.
+• Tamaño de muestra fue de 5x5 cm.
+Este tipo de análisis se puede asociar a determinar la dureza de un producto, la cual
+mecánicamente se define como la fuerza necesaria para lograr una deformación
+determinada, y sensorialmente se define como, la fuerza necesaria para comprimir una
+sustancia entre los dientes molares (en el caso de los sólidos) o entre la lengua y el paladar
+(en el caso de los semisólidos) (Szczesniak, 2002).
+A continuación, en la Tabla 1.3 y Figura 1.3 se muestran los resultados de los ensayos de
+esfuerzo de corte, expresado como la fuerza máxima en Newton (N), de los productos
+comerciales como parámetros de base.
+Tabla 1.3. Resultados perfil de textura de productos comerciales
+Nutrientes críticos Fuerza máxima (N)
+Daily 127,8 ± 7,4
+Dilici 77,0 ± 19,0
+Mr Keto 74,9 ± 14,8
+7 Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+
+=== Página 12 ===
+GreenspizzaGreenspizza
+Figura 1.3. Perfil de textura de productos comerciales
+Los valores de textura (fuerza N) obtenidos para masas de pizza comerciales, están entre
+los 75 a 128 N. Los productos más duros fueron los de marca Daily, mientras que los más
+blandos fueron los productos de Dilici y Mr. keto.
+1.4. REFERENCIAS
+• Decreto N° 977. Reglamento Sanitario de los Alimentos, Santiago, Chile, 1996
+• Szczesniak, Alina S. (2002). Texture is a sensory property. Food Quality and
+Preference, vol. 13, 215–225.
+8 Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+
+=== Página 13 ===
+GreenspizzaGreenspizza
+DISEÑO DE PROCESOS Y FORMULACIÓN TEÓRICA DE PROTOTIPOS A
+DESARROLLAR
+PROYECTO CREA Y VALIDA CÓDIGO 20CV-152107
+9 Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+
+=== Página 14 ===
+GreenspizzaGreenspizza
+ÍNDICE ANEXO Nº 2
+2.1. Introducción ............................................................................................................ 11
+2.2. Metodología ............................................................................................................ 11
+2.3. Resultados.............................................................................................................. 11
+2.3.1. Identificación de procesos unitarios para la línea productiva ....................... 11
+Masa de pre-pizza de coliflor .......................................................................... 13
+Masa de pre-pizza de garbanzos ................................................................... 13
+2.3.2. Identificación de ingredientes para formulación ........................................... 15
+10 Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+
+=== Página 15 ===
+GreenspizzaGreenspizza
+2.1. INTRODUCCIÓN
+El desarrollo de esta actividad contempló la elaboración del diseño de la línea de proceso,
+junto con la formulación teórica de los prototipos desarrollados. Para el diseño de procesos
+se evaluaron las operaciones unitarias requeridas para la obtención de masas de pre-pizza
+a base de coliflor y/o garbanzo. La selección de las operaciones unitarias abordó toda la
+línea productiva: pre-tratamiento de coliflor, mezcla de ingredientes, procesamiento,
+envasado, almacenamiento y comercialización. Por otra parte, para la formulación de los
+prototipos, se mantuvo en consideración los requerimientos nutricionales, las propiedades
+tecnológicas de los ingredientes y los requerimientos de la empresa mandante para cumplir
+con la elaboración de masas de pre-pizzas a base de coliflor y/o garbanzo congelados,
+libres de gluten, sin sellos de advertencia ni preservantes artificiales.
+2.2. METODOLOGÍA
+La metodología empleada para llegar la definición del proceso productivo y formulación
+teórica, se basó en la identificación de procesos unitarios que podrían emular los resultados
+obtenidos por equipamientos industriales para la producción de masas de pre-pizzas libres
+de gluten. Luego de esto, se definieron los ingredientes de forma teórica en base a su acción
+y propiedades tecnológicas en la formulación.
+2.3. RESULTADOS
+2.3.1. Identificación de procesos unitarios para la línea productiva
+A continuación, se presentan las alternativas de proceso propuesta para la obtención de
+masa de pre-pizza de coliflor y garbanzo, en la Figura 2.1 y Figura 2.2 respectivamente.
+11 Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+
+=== Página 16 ===
+GreenspizzaGreenspizza
+Coliflor Mezclado 1 Ingredientes secos
+Pre-tratamiento Mezclado 2 Aceite
+Triturado Mezclado 3
+Fomado
+Cocción
+Enfriado
+Envasado
+Congelado
+Comercialización
+Figura 2.1. Línea de proceso para masa de pre-pizza de coliflor
+Ingredientes secos Mezclado 1
+Aceite
+Mezclado 2
+Agua Mezclado 3
+Fomado
+Cocción
+Enfriado
+Envasado
+Congelado
+Comercialización
+Figura 2.2. Línea de proceso para masa de pre-pizza de garbanzo
+12 Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+
+=== Página 17 ===
+GreenspizzaGreenspizza
+A continuación, se presenta una descripción de cada una de las operaciones unitarias
+involucradas en el desarrollo de masas para pre-pizza a partir de harina de coliflor fresca y
+garbanzos.
+Masa de pre-pizza de coliflor
+1. Mezclado 1: Se incorporan los ingredientes secos, en este caso las harinas de
+cereales, almidones, azúcar, sal y gomas al equipo mezclador hasta que los polvos
+se vean homogéneos.
+2. Mezclado 2: A la mezcla de polvos se le añade el aceite y se repite la operación
+anterior.
+3. Pre-tratamiento: Durante esta etapa se realiza la limpieza de coliflor, donde es
+necesario la eliminación de tierra. Esto puede ser solamente con agua y en algunos
+casos utilizan bicarbonato de sodio, como agente sanitizante o un sanitizante
+comercial a base de cloruro de benzalconio (desinfectante).
+4. Triturado: La coliflor fresca es llevada a un procesador de alimentos (tipo cutter) y
+se tritura hasta que sea una pasta.
+5. Mezclado 3: A la mezcla de ingredientes secos y aceite se le añade la pasta de
+coliflor y se mezcla hasta que se forme una masa homogénea.
+6. Formado: La masa es dispuesta en una lámina de silicona, donde sobre ésta se
+pone otra lamina y se le pasa rodillos hasta llegar al grosor deseado. Se retira la
+lámina superior y se cortan los excesos con un molde redondo.
+7. Cocción: El disco de masa sobre la silicona se dispone en una bandeja do horno y
+se introduce al equipo. El horno tiene que ser con convección y las condiciones de
+operación son de 180°C por 8 min.
+8. Enfriado: Después de horneado, los discos de masa cocida se deben dejar a
+temperatura ambiente para que se enfríen antes de envasar, y así no generar vapor
+de agua en el interior de los envases (evitando futuros deterioros del producto).
+9. Envasado: Los discos fríos se envasan en empaque por definir.
+10. Congelado: Los envases sellados se llevan a cámara de congelación a temperatura
+de -20°C
+Masa de pre-pizza de garbanzos
+1. Mezclado 1: Se incorporan los ingredientes secos, en este caso las harinas de
+cereales, almidones, azúcar, sal y gomas al equipo mezclador hasta que los polvos
+se vean homogéneos.
+2. Mezclado 2: A la mezcla de polvos se le añade el aceite y se repite la operación
+anterior.
+3. Mezclado 3: A la mezcla se añade el agua y se mezcla hasta que se forme una
+masa homogénea.
+13 Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+
+=== Página 18 ===
+GreenspizzaGreenspizza
+4. Formado: La masa es dispuesta en una lámina de silicona, donde sobre ésta se
+pone otra lámina y se le pasa rodillos hasta llegar al grosor deseado. Se retira la
+lámina superior y se cortan los excesos con un molde redondo.
+5. Cocción: El disco de masa sobre la silicona se dispone en una bandeja do horno y
+se introduce al equipo. El horno tiene que ser con convección y las condiciones de
+operación son de 180°C por 8 min.
+6. Enfriado: Después de horneado, los discos de masa cocida se deben dejar a
+temperatura ambiente para que se enfríen antes de envasar, y así no generar vapor
+de agua en el interior de los envases (evitando futuros deterioros del producto).
+7. Envasado: Los discos fríos se envasan en empaque por definir.
+8. Congelado: Los envases sellados se llevan a cámara de congelación a temperatura
+de -20°C.
+A continuación, en la Tabla 2.1 se presentan algunos equipos necesarios para el desarrollo
+de las masas de pre-pizzas.
+Tabla 2.1. Equipos para el desarrollo de masas de pre-pizzas
+Equipos Imagen de referencia
+Mezclador planetario
+Procesador de alimentos
+(tipo cutter)
+Prensa para masas de pizza
+14 Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+
+=== Página 19 ===
+GreenspizzaGreenspizza
+Horno
+Envasadora
+Congelador
+2.3.2. Identificación de ingredientes para formulación
+Para el presente proyecto, se ha considerado el uso de coliflor fresco y harina de garbanzo
+como materia prima base para el desarrollo de masa de pre-pizzas. Luego, se consideró el
+uso de otras harinas, como la harina de arroz, harina de papa, harina de maíz, entre otras.
+Por otra parte, también se consideró maicena y almidón de mandioca por su acción
+gelificantes y por la obtención de buenas texturas en productos horneados.
+Se debe considerar que el producto a elaborar, debe cumplir con los siguientes
+requerimientos:
+ Ser libres de sellos de advertencia
+ Sin gluten
+ Sin preservantes artificiales.
+Luego de lo mencionado en los puntos anteriores y en base a los ingredientes de productos
+comerciales (Tabla 1.1), se presentan los ingredientes postulados para las formulaciones y
+pruebas de concepto se muestran en la siguiente tabla.
+15 Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+
+=== Página 20 ===
+GreenspizzaGreenspizza
+Tabla 2.2. Ingredientes para prototipos
+Ingredientes Lista Función
+Verdura Coliflor ---
+Harinas ● Harina de garbanzo Diferentes tipos de harinas para
+● Harina de arroz evaluar funcionalidad, propiedades
+● Harina de papa nutricionales y sabores.
+● Harina de maíz
+Almidones y extruidos ● Almidón de maíz (maicena) Los almidones y extruidos otorgarán
+● Almidón de mandioca características estructurales
+● Harina de arroz extruida importantes en las mezcla y en el
+horneado de cereales.
+Gomas ● Goma xantana Aglomerante
+Estabilizador
+Polvos ● Huevo en polvo Antiaglutinantes
+● Bicarbonato de sodio Reguladores de la acidez
+● Sal común Leudantes
+estabilizadores
+Otros ● Levadura Leudantes
+● Azúcar
+● Aceite
+16 Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+
+=== Página 21 ===
+GreenspizzaGreenspizza
+DESARROLLO DE PRUEBAS DE CONCEPTO
+PROYECTO CREA Y VALIDA CÓDIGO 20CV-152107
+17 Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+
+=== Página 22 ===
+GreenspizzaGreenspizza
+ÍNDICE ANEXO Nº 3
+3.1. Introducción ............................................................................................................ 19
+3.2. Metodología ............................................................................................................ 19
+3.3. Resultados.............................................................................................................. 19
+3.3.1. Pruebas de concepto .................................................................................. 19
+18 Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+
+=== Página 23 ===
+GreenspizzaGreenspizza
+3.1. INTRODUCCIÓN
+El desarrollo de esta actividad contempló la generación de pruebas de concepto a partir de
+los antecedentes generados en el Anexo 2.
+3.2. METODOLOGÍA
+Se desarrollaron pruebas de concepto para las masas de pre-pizzas a base de coliflor y a
+base de garbanzo. En el caso de la coliflor, se utilizó de forma fresca con un pre-tratamiento
+de limpieza y triturado. Por otro lado, para las masas de pre-pizzas de garbanzo se utilizó
+harina de garbanzo para su elaboración.
+3.3. RESULTADOS
+3.3.1. Pruebas de concepto
+A continuación, se presentan algunas pruebas de concepto realizadas para la obtención de
+masas de pre-pizzas. Las formulaciones realizadas para la obtención de masa de pre-pizza
+de coliflor se muestran en la Tabla 3.1, mientras que las formulaciones para la obtención de
+masa de pre-pizza de garbanzo se muestran en la
+Tabla 3.2.
+Tabla 3.1. Formulaciones para masa de pre-pizza de coliflor
+Ingredientes P1 P2 P3 P4 P5 P6
+Coliflor 40,7% 42,6% 41,0% 42,7% 42,7% 39,4%
+Harina de arroz 40,7% 46,8% 49,2% 47,0% 38,5% 39,4%
+Harina de arroz extruido 8,1% --- --- --- --- ---
+Harina de papa --- --- --- --- 8,5% ---
+Harina de garbanzo --- --- --- --- --- 11,8%
+Almidón de maíz (Maicena) 8,1% 8,5% 4,1% 4,3% 4,3% 3,9%
+Huevo en polvo --- --- 4,1% 4,3% 4,3% 3,9%
+Goma xantana 0,8% 0,4% --- --- --- ---
+Sal común 0,8% 0,9% 0,8% 0,9% 0,9% 0,8%
+Bicarbonato de sodio 0,8% 0,9% 0,8% 0,9% 0,9% 0,8%
+19 Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+
+=== Página 24 ===
+GreenspizzaGreenspizza
+Tabla 3.2. Formulaciones para masa de pre-pizza de garbanzo
+Ingredientes P1 P2 P3
+Harina de garbanzo 24,4% 20,4% 19,4%
+Harina de arroz 22,4% 12,2% ---
+Harina de papa --- 14,3% ---
+Almidón de maíz (Maicena) 20,4% 16,3% 25,2%
+Almidón de mandioca --- --- 19,4%
+Aceite de oliva 6,1% 6,1% 5,8%
+Sal común 1,0% 1,0% 1,0%
+Agua 20,4% 24,4% 23,3%
+Goma xantana 0,8% 0,8% 0,8%
+Azúcar 4,5% 4,5% 3,9%
+Levadura en polvo --- --- 1,2%
+De acuerdo a las formulaciones mostradas en las tablas anteriores, se han generados
+prototipos que fueron testeados tanto por el equipo CREAS como por los representantes
+de la empresa beneficiaria. Los prototipos generados, se muestran en la Figura 3.2.
+20 Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+
+=== Página 25 ===
+GreenspizzaGreenspizza
+Figura 3.1. Prototipos de masas de pre-pizzas de coliflor y garbanzo
+De acuerdo a las conversaciones entre equipo técnico CREAS y los representantes de la
+empresa, se evaluaron sensorialmente los prototipos, llegando a converger en que los
+mejores prototipos generados fueron:
+ Pre-pizza coliflor: P6, P3 y P5.
+ Pre-pizza garbanzo: P2 y P3.
+En base a estos resultados, se procederá a realizar mejoras en los prototipos
+seleccionados. Las mejoras a realizar serán en cuanto al reemplazo de ingredientes,
+mejoras en la línea productiva, específicamente en el formado (prensado), y en ajustar las
+formulaciones para cumplir con elaborar un producto libre de sellos de advertencia.
+21 Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+=== Página 1 ===
+INFORME RESULTADOS
+DESARROLLO DE PRUEBAS DE CONCEPTO PARA LA
+REFORMULACIÓN DE PIZZAS DE COLIFLOR.
+ALIMENTOS GREENS SPA
+Desarrolló:
+CENTRO REGIONAL DE ESTUDIOS EN ALIMENTOS Y SALUD
+JUNIO 2022
+
+=== Página 2 ===
+ÍNDICE GENERAL
+1. PREÁMBULO ________________________________________________________ 3
+2. METODOLOGÍA ______________________________________________________ 4
+3. RESULTADOS _______________________________________________________ 5
+4. IMÁGENES __________________________________________________________ 6
+2 Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+
+=== Página 3 ===
+1. PREÁMBULO
+El presente informe tiene como objetivo exponer los resultados en base al desarrollo de
+pruebas de concepto para la reformulación de pizzas de coliflor de la empresa Alimentos
+Greens SpA.
+Durante el servicio, se realizó el reemplazo de huevo en polvo por producto comercial
+“sustitutos de huevo”, donde se evaluaron diferentes proporciones del ingrediente en la
+formulación original, hasta obtener 3 nuevos posibles prototipos. Estos prototipos fueron
+evaluados por el cliente y se seleccionó un producto final libre de alérgenos.
+3 Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+
+=== Página 4 ===
+2. METODOLOGÍA
+Para las diferentes pruebas de concepto, se tomo como base la formulación de pizza de
+coliflor, la cual se muestra en la siguiente tabla.
+Tabla 2.1: Formulación base de pizza de coliflor.
+Ingredientes Formulación (%)
+Coliflor (50% flor 50% tallo) 31,7%
+Harina de arroz 31,7%
+Harina de maíz 15,9%
+Almidón de maíz (Maicena) 4,0%
+Huevo en polvo 4,0%
+Sal común 0,8%
+Agua 11,9%
+El huevo en polvo fue reemplazado por 3 sustitutos de huevo comerciales, los cuales se
+muestran en la siguiente tabla.
+Tabla 2.2: Sustitutos de huevo comerciales utilizados.
+Nombre Marca Precio $ Formato (g) Ingrediantes
+comercial
+Vegan Easy Egg Organ 6798 250 Harina de garbanzo, harina de
+maíz, metilcelulosa, proteína
+vegetal, dextrosa de maíz, sal,
+cúrcuma, carbonato de calcio, ajo
+en polvo
+No Egg Organ 5198 200 Almidón de papa, almidón de
+tapioca, carbonato de calcio, ácido
+cítrico, metilcelulosa.
+Egg Replacer Red Mill 8290 340 Almidón de papa, harina de
+tapioca, bicarbonato de sodio, fibra
+de cáscara de psyllium
+4 Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+
+=== Página 5 ===
+3. RESULTADOS
+A continuación, se muestran las pruebas de concepto realizadas donde se probaron 2
+diferentes proporciones de sustituto de huevo por cada producto comercial.
+Tabla 3.1: Pruebas de concepto realizadas.
+Ingredientes P1A P1B P2A P2B P3A P3B
+(gramos) (gramos) (gramos) (gramos) (gramos) (gramos)
+Coliflor (50% flor 50% tallo) 95,1 95,1 95,1 95,1 95,1 95,1
+Harina de arroz 95,1 95,1 95,1 95,1 95,1 95,1
+Harina de maíz 47,7 47,7 47,7 47,7 47,7 47,7
+Almidón de maíz (Maicena) 12 12 12 12 12 12
+Easy egg 12 6 - - - -
+No Egg - - 12 6 - -
+Red Mill - - - - 12 6
+Sal común 2,4 2,4 2,4 2,4 2,4 2,4
+Agua 35,7 35,7 35,7 35,7 35,7 35,7
+Estas muestras fueron presentadas a la empresa, la cual en base a la degustación
+realizada en las instalaciones CREAS, tomaron la decisión de seleccionar la prueba P3B,
+cuya formulación en porcentaje, se muestra en la siguiente tabla.
+Tabla 3.2: Formulación (%) de producto seleccionado.
+Ingredientes Formulación (%)
+Coliflor (50% flor 50% tallo) 32,3%
+Harina de arroz 32,3%
+Harina de maíz 16,2%
+Almidón de maíz (Maicena) 4,1%
+Sustituto de huevo (Red Mill) 2,0%
+Sal común 0,8%
+Agua 12,1%
+5 Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl
+
+=== Página 6 ===
+4. IMÁGENES
+6 Centro Regional de Estudios en Alimentos Saludables
+Avenida Universidad N°330, Edificio CREAS Campus PUCV Curauma – Sector Placilla, Valparaíso
+Fono: 56 32 227 4460
+Contacto: comunicaciones@creas.cl

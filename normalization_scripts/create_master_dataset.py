@@ -1,61 +1,54 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+"""
+Script ejemplo para unificar datos (Ciqual, CNF, USDA, etc.)
+y generar un 'final_dataset.csv' que usaremos en pipeline.py
+"""
+
 import pandas as pd
 import os
 
 def create_master_dataset():
-    """
-    Este script lee los CSV normalizados de cada fuente (Canadá, Ciqual, USDA, etc.)
-    y los concatena en un solo archivo 'master_dataset_full.csv'.
-    Ajusta las rutas y nombres de archivo según tu caso.
-    """
-    
-    # Ajusta las rutas según donde tengas cada CSV unificado
-    # Ejemplos (modifica si tus archivos están en otra carpeta):
-    ciqual_csv = "ciqual_unified.csv"
-    cnf_csv = "canadian_cnf_unified.csv"
-    usda_csv = "usda_unified.csv"
+    # Rutas (ajusta según tu caso real)
+    ciqual_path = "ciqual_unified.csv"
+    cnf_path = "canadian_cnf_unified.csv"
+    usda_path = "usda_unified.csv"
+    output_file = "final_dataset.csv"
 
+    # Lee cada CSV si existe
+    df_ciqual = pd.read_csv(ciqual_path) if os.path.exists(ciqual_path) else pd.DataFrame()
+    df_cnf = pd.read_csv(cnf_path) if os.path.exists(cnf_path) else pd.DataFrame()
+    df_usda = pd.read_csv(usda_path) if os.path.exists(usda_path) else pd.DataFrame()
 
-    # Creamos una lista para DataFrames
-    dfs = []
+    # Pequeño renombrado genérico (ajusta a tu gusto)
+    rename_map = {
+        "Protein (g/100g)": "protein_g",
+        "Fat (g/100g)": "fat_g",
+        "Carbohydrate (g/100g)": "carbs_g",
+        "Fibres (g/100g)": "fiber_g",
+        "Sodium (mg/100g)": "sodium_mg",
+        "Energy_kcal_100g": "energy_kcal",
+    }
 
-    # 1. Cargar Ciqual si existe
-    if os.path.isfile(ciqual_csv):
-        df_ciqual = pd.read_csv(ciqual_csv)
-        dfs.append(df_ciqual)
-        print(f"Leído: {ciqual_csv} con {len(df_ciqual)} filas.")
-    else:
-        print(f"No se encontró {ciqual_csv}. Saltando...")
+    def unify_columns(df):
+        return df.rename(columns=rename_map)
 
-    # 2. Cargar CNF (Canadá) si existe
-    if os.path.isfile(cnf_csv):
-        df_cnf = pd.read_csv(cnf_csv)
-        dfs.append(df_cnf)
-        print(f"Leído: {cnf_csv} con {len(df_cnf)} filas.")
-    else:
-        print(f"No se encontró {cnf_csv}. Saltando...")
+    df_ciqual = unify_columns(df_ciqual)
+    df_cnf = unify_columns(df_cnf)
+    df_usda = unify_columns(df_usda)
 
-    # 3. Cargar USDA si existe
-    if os.path.isfile(usda_csv):
-        df_usda = pd.read_csv(usda_csv)
-        dfs.append(df_usda)
-        print(f"Leído: {usda_csv} con {len(df_usda)} filas.")
-    else:
-        print(f"No se encontró {usda_csv}. Saltando...")
+    # Concatenar
+    df_nutrients = pd.concat([df_ciqual, df_cnf, df_usda], ignore_index=True)
 
-    # Si tenemos al menos un DataFrame
-    if len(dfs) > 0:
-        # Unimos con outer concat para no perder columnas
-        df_master = pd.concat(dfs, ignore_index=True, sort=False)
+    # Quita filas totalmente vacías
+    df_nutrients.dropna(how="all", inplace=True)
 
-        # Exportamos
-        output_file = "master_dataset_full.csv"
-        df_master.to_csv(output_file, index=False, encoding="utf-8")
-        print(f"\nArchivo maestro '{output_file}' generado con {len(df_master)} filas.")
-    else:
-        print("No se cargó ningún CSV. Revisa rutas y nombres de archivo.")
+    # (Opcional) Podrías unir con datos de "extended_ingredients_info.json" o CREAS, etc.
+
+    # Guardar CSV unificado
+    df_nutrients.to_csv(output_file, index=False, encoding="utf-8")
+    print(f"[OK] Archivo '{output_file}' generado con {len(df_nutrients)} filas.")
 
 if __name__ == "__main__":
     create_master_dataset()
